@@ -1,0 +1,1177 @@
+"Notes"	"Year"	"Year Code"	"Month"	"Month Code"	"Single Race 6"	"Single Race 6 Code"	"Gender"	"Gender Code"	Deaths	Population	Crude Rate
+	"2018"	"2018"	"Jan., 2018"	"2018/01"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	45	Not Applicable	Not Applicable
+	"2018"	"2018"	"Jan., 2018"	"2018/01"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	72	Not Applicable	Not Applicable
+	"2018"	"2018"	"Jan., 2018"	"2018/01"	"Asian"	"A"	"Female"	"F"	Suppressed	Not Applicable	Not Applicable
+	"2018"	"2018"	"Jan., 2018"	"2018/01"	"Asian"	"A"	"Male"	"M"	27	Not Applicable	Not Applicable
+	"2018"	"2018"	"Jan., 2018"	"2018/01"	"Black or African American"	"2054-5"	"Female"	"F"	89	Not Applicable	Not Applicable
+	"2018"	"2018"	"Jan., 2018"	"2018/01"	"Black or African American"	"2054-5"	"Male"	"M"	221	Not Applicable	Not Applicable
+	"2018"	"2018"	"Jan., 2018"	"2018/01"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Female"	"F"	Suppressed	Not Applicable	Not Applicable
+	"2018"	"2018"	"Jan., 2018"	"2018/01"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Male"	"M"	Suppressed	Not Applicable	Not Applicable
+	"2018"	"2018"	"Jan., 2018"	"2018/01"	"White"	"2106-3"	"Female"	"F"	733	Not Applicable	Not Applicable
+	"2018"	"2018"	"Jan., 2018"	"2018/01"	"White"	"2106-3"	"Male"	"M"	1718	Not Applicable	Not Applicable
+	"2018"	"2018"	"Jan., 2018"	"2018/01"	"More than one race"	"M"	"Female"	"F"	15	Not Applicable	Not Applicable
+	"2018"	"2018"	"Jan., 2018"	"2018/01"	"More than one race"	"M"	"Male"	"M"	19	Not Applicable	Not Applicable
+	"2018"	"2018"	"Jan., 2018"	"2018/01"	"Not Available"	"999"	"Female"	"F"	0	Not Applicable	Not Applicable
+	"2018"	"2018"	"Jan., 2018"	"2018/01"	"Not Available"	"999"	"Male"	"M"	0	Not Applicable	Not Applicable
+	"2018"	"2018"	"Feb., 2018"	"2018/02"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	42	Not Applicable	Not Applicable
+	"2018"	"2018"	"Feb., 2018"	"2018/02"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	62	Not Applicable	Not Applicable
+	"2018"	"2018"	"Feb., 2018"	"2018/02"	"Asian"	"A"	"Female"	"F"	Suppressed	Not Applicable	Not Applicable
+	"2018"	"2018"	"Feb., 2018"	"2018/02"	"Asian"	"A"	"Male"	"M"	28	Not Applicable	Not Applicable
+	"2018"	"2018"	"Feb., 2018"	"2018/02"	"Black or African American"	"2054-5"	"Female"	"F"	67	Not Applicable	Not Applicable
+	"2018"	"2018"	"Feb., 2018"	"2018/02"	"Black or African American"	"2054-5"	"Male"	"M"	167	Not Applicable	Not Applicable
+	"2018"	"2018"	"Feb., 2018"	"2018/02"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Female"	"F"	Suppressed	Not Applicable	Not Applicable
+	"2018"	"2018"	"Feb., 2018"	"2018/02"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Male"	"M"	Suppressed	Not Applicable	Not Applicable
+	"2018"	"2018"	"Feb., 2018"	"2018/02"	"White"	"2106-3"	"Female"	"F"	630	Not Applicable	Not Applicable
+	"2018"	"2018"	"Feb., 2018"	"2018/02"	"White"	"2106-3"	"Male"	"M"	1445	Not Applicable	Not Applicable
+	"2018"	"2018"	"Feb., 2018"	"2018/02"	"More than one race"	"M"	"Female"	"F"	Suppressed	Not Applicable	Not Applicable
+	"2018"	"2018"	"Feb., 2018"	"2018/02"	"More than one race"	"M"	"Male"	"M"	10	Not Applicable	Not Applicable
+	"2018"	"2018"	"Feb., 2018"	"2018/02"	"Not Available"	"999"	"Female"	"F"	0	Not Applicable	Not Applicable
+	"2018"	"2018"	"Feb., 2018"	"2018/02"	"Not Available"	"999"	"Male"	"M"	0	Not Applicable	Not Applicable
+	"2018"	"2018"	"Mar., 2018"	"2018/03"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	41	Not Applicable	Not Applicable
+	"2018"	"2018"	"Mar., 2018"	"2018/03"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	59	Not Applicable	Not Applicable
+	"2018"	"2018"	"Mar., 2018"	"2018/03"	"Asian"	"A"	"Female"	"F"	Suppressed	Not Applicable	Not Applicable
+	"2018"	"2018"	"Mar., 2018"	"2018/03"	"Asian"	"A"	"Male"	"M"	23	Not Applicable	Not Applicable
+	"2018"	"2018"	"Mar., 2018"	"2018/03"	"Black or African American"	"2054-5"	"Female"	"F"	72	Not Applicable	Not Applicable
+	"2018"	"2018"	"Mar., 2018"	"2018/03"	"Black or African American"	"2054-5"	"Male"	"M"	202	Not Applicable	Not Applicable
+	"2018"	"2018"	"Mar., 2018"	"2018/03"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Female"	"F"	Suppressed	Not Applicable	Not Applicable
+	"2018"	"2018"	"Mar., 2018"	"2018/03"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Male"	"M"	Suppressed	Not Applicable	Not Applicable
+	"2018"	"2018"	"Mar., 2018"	"2018/03"	"White"	"2106-3"	"Female"	"F"	660	Not Applicable	Not Applicable
+	"2018"	"2018"	"Mar., 2018"	"2018/03"	"White"	"2106-3"	"Male"	"M"	1662	Not Applicable	Not Applicable
+	"2018"	"2018"	"Mar., 2018"	"2018/03"	"More than one race"	"M"	"Female"	"F"	Suppressed	Not Applicable	Not Applicable
+	"2018"	"2018"	"Mar., 2018"	"2018/03"	"More than one race"	"M"	"Male"	"M"	15	Not Applicable	Not Applicable
+	"2018"	"2018"	"Mar., 2018"	"2018/03"	"Not Available"	"999"	"Female"	"F"	0	Not Applicable	Not Applicable
+	"2018"	"2018"	"Mar., 2018"	"2018/03"	"Not Available"	"999"	"Male"	"M"	0	Not Applicable	Not Applicable
+	"2018"	"2018"	"Apr., 2018"	"2018/04"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	42	Not Applicable	Not Applicable
+	"2018"	"2018"	"Apr., 2018"	"2018/04"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	66	Not Applicable	Not Applicable
+	"2018"	"2018"	"Apr., 2018"	"2018/04"	"Asian"	"A"	"Female"	"F"	10	Not Applicable	Not Applicable
+	"2018"	"2018"	"Apr., 2018"	"2018/04"	"Asian"	"A"	"Male"	"M"	31	Not Applicable	Not Applicable
+	"2018"	"2018"	"Apr., 2018"	"2018/04"	"Black or African American"	"2054-5"	"Female"	"F"	67	Not Applicable	Not Applicable
+	"2018"	"2018"	"Apr., 2018"	"2018/04"	"Black or African American"	"2054-5"	"Male"	"M"	170	Not Applicable	Not Applicable
+	"2018"	"2018"	"Apr., 2018"	"2018/04"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Female"	"F"	Suppressed	Not Applicable	Not Applicable
+	"2018"	"2018"	"Apr., 2018"	"2018/04"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Male"	"M"	Suppressed	Not Applicable	Not Applicable
+	"2018"	"2018"	"Apr., 2018"	"2018/04"	"White"	"2106-3"	"Female"	"F"	639	Not Applicable	Not Applicable
+	"2018"	"2018"	"Apr., 2018"	"2018/04"	"White"	"2106-3"	"Male"	"M"	1548	Not Applicable	Not Applicable
+	"2018"	"2018"	"Apr., 2018"	"2018/04"	"More than one race"	"M"	"Female"	"F"	Suppressed	Not Applicable	Not Applicable
+	"2018"	"2018"	"Apr., 2018"	"2018/04"	"More than one race"	"M"	"Male"	"M"	15	Not Applicable	Not Applicable
+	"2018"	"2018"	"Apr., 2018"	"2018/04"	"Not Available"	"999"	"Female"	"F"	0	Not Applicable	Not Applicable
+	"2018"	"2018"	"Apr., 2018"	"2018/04"	"Not Available"	"999"	"Male"	"M"	0	Not Applicable	Not Applicable
+	"2018"	"2018"	"May, 2018"	"2018/05"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	33	Not Applicable	Not Applicable
+	"2018"	"2018"	"May, 2018"	"2018/05"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	59	Not Applicable	Not Applicable
+	"2018"	"2018"	"May, 2018"	"2018/05"	"Asian"	"A"	"Female"	"F"	Suppressed	Not Applicable	Not Applicable
+	"2018"	"2018"	"May, 2018"	"2018/05"	"Asian"	"A"	"Male"	"M"	24	Not Applicable	Not Applicable
+	"2018"	"2018"	"May, 2018"	"2018/05"	"Black or African American"	"2054-5"	"Female"	"F"	81	Not Applicable	Not Applicable
+	"2018"	"2018"	"May, 2018"	"2018/05"	"Black or African American"	"2054-5"	"Male"	"M"	192	Not Applicable	Not Applicable
+	"2018"	"2018"	"May, 2018"	"2018/05"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Female"	"F"	0	Not Applicable	Not Applicable
+	"2018"	"2018"	"May, 2018"	"2018/05"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Male"	"M"	Suppressed	Not Applicable	Not Applicable
+	"2018"	"2018"	"May, 2018"	"2018/05"	"White"	"2106-3"	"Female"	"F"	646	Not Applicable	Not Applicable
+	"2018"	"2018"	"May, 2018"	"2018/05"	"White"	"2106-3"	"Male"	"M"	1509	Not Applicable	Not Applicable
+	"2018"	"2018"	"May, 2018"	"2018/05"	"More than one race"	"M"	"Female"	"F"	Suppressed	Not Applicable	Not Applicable
+	"2018"	"2018"	"May, 2018"	"2018/05"	"More than one race"	"M"	"Male"	"M"	13	Not Applicable	Not Applicable
+	"2018"	"2018"	"May, 2018"	"2018/05"	"Not Available"	"999"	"Female"	"F"	0	Not Applicable	Not Applicable
+	"2018"	"2018"	"May, 2018"	"2018/05"	"Not Available"	"999"	"Male"	"M"	0	Not Applicable	Not Applicable
+	"2018"	"2018"	"Jun., 2018"	"2018/06"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	46	Not Applicable	Not Applicable
+	"2018"	"2018"	"Jun., 2018"	"2018/06"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	58	Not Applicable	Not Applicable
+	"2018"	"2018"	"Jun., 2018"	"2018/06"	"Asian"	"A"	"Female"	"F"	Suppressed	Not Applicable	Not Applicable
+	"2018"	"2018"	"Jun., 2018"	"2018/06"	"Asian"	"A"	"Male"	"M"	31	Not Applicable	Not Applicable
+	"2018"	"2018"	"Jun., 2018"	"2018/06"	"Black or African American"	"2054-5"	"Female"	"F"	70	Not Applicable	Not Applicable
+	"2018"	"2018"	"Jun., 2018"	"2018/06"	"Black or African American"	"2054-5"	"Male"	"M"	184	Not Applicable	Not Applicable
+	"2018"	"2018"	"Jun., 2018"	"2018/06"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Female"	"F"	Suppressed	Not Applicable	Not Applicable
+	"2018"	"2018"	"Jun., 2018"	"2018/06"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Male"	"M"	Suppressed	Not Applicable	Not Applicable
+	"2018"	"2018"	"Jun., 2018"	"2018/06"	"White"	"2106-3"	"Female"	"F"	641	Not Applicable	Not Applicable
+	"2018"	"2018"	"Jun., 2018"	"2018/06"	"White"	"2106-3"	"Male"	"M"	1526	Not Applicable	Not Applicable
+	"2018"	"2018"	"Jun., 2018"	"2018/06"	"More than one race"	"M"	"Female"	"F"	Suppressed	Not Applicable	Not Applicable
+	"2018"	"2018"	"Jun., 2018"	"2018/06"	"More than one race"	"M"	"Male"	"M"	19	Not Applicable	Not Applicable
+	"2018"	"2018"	"Jun., 2018"	"2018/06"	"Not Available"	"999"	"Female"	"F"	0	Not Applicable	Not Applicable
+	"2018"	"2018"	"Jun., 2018"	"2018/06"	"Not Available"	"999"	"Male"	"M"	0	Not Applicable	Not Applicable
+	"2018"	"2018"	"Jul., 2018"	"2018/07"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	45	Not Applicable	Not Applicable
+	"2018"	"2018"	"Jul., 2018"	"2018/07"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	79	Not Applicable	Not Applicable
+	"2018"	"2018"	"Jul., 2018"	"2018/07"	"Asian"	"A"	"Female"	"F"	12	Not Applicable	Not Applicable
+	"2018"	"2018"	"Jul., 2018"	"2018/07"	"Asian"	"A"	"Male"	"M"	39	Not Applicable	Not Applicable
+	"2018"	"2018"	"Jul., 2018"	"2018/07"	"Black or African American"	"2054-5"	"Female"	"F"	72	Not Applicable	Not Applicable
+	"2018"	"2018"	"Jul., 2018"	"2018/07"	"Black or African American"	"2054-5"	"Male"	"M"	197	Not Applicable	Not Applicable
+	"2018"	"2018"	"Jul., 2018"	"2018/07"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Female"	"F"	0	Not Applicable	Not Applicable
+	"2018"	"2018"	"Jul., 2018"	"2018/07"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Male"	"M"	Suppressed	Not Applicable	Not Applicable
+	"2018"	"2018"	"Jul., 2018"	"2018/07"	"White"	"2106-3"	"Female"	"F"	712	Not Applicable	Not Applicable
+	"2018"	"2018"	"Jul., 2018"	"2018/07"	"White"	"2106-3"	"Male"	"M"	1594	Not Applicable	Not Applicable
+	"2018"	"2018"	"Jul., 2018"	"2018/07"	"More than one race"	"M"	"Female"	"F"	Suppressed	Not Applicable	Not Applicable
+	"2018"	"2018"	"Jul., 2018"	"2018/07"	"More than one race"	"M"	"Male"	"M"	11	Not Applicable	Not Applicable
+	"2018"	"2018"	"Jul., 2018"	"2018/07"	"Not Available"	"999"	"Female"	"F"	0	Not Applicable	Not Applicable
+	"2018"	"2018"	"Jul., 2018"	"2018/07"	"Not Available"	"999"	"Male"	"M"	0	Not Applicable	Not Applicable
+	"2018"	"2018"	"Aug., 2018"	"2018/08"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	43	Not Applicable	Not Applicable
+	"2018"	"2018"	"Aug., 2018"	"2018/08"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	70	Not Applicable	Not Applicable
+	"2018"	"2018"	"Aug., 2018"	"2018/08"	"Asian"	"A"	"Female"	"F"	Suppressed	Not Applicable	Not Applicable
+	"2018"	"2018"	"Aug., 2018"	"2018/08"	"Asian"	"A"	"Male"	"M"	30	Not Applicable	Not Applicable
+	"2018"	"2018"	"Aug., 2018"	"2018/08"	"Black or African American"	"2054-5"	"Female"	"F"	77	Not Applicable	Not Applicable
+	"2018"	"2018"	"Aug., 2018"	"2018/08"	"Black or African American"	"2054-5"	"Male"	"M"	183	Not Applicable	Not Applicable
+	"2018"	"2018"	"Aug., 2018"	"2018/08"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Female"	"F"	Suppressed	Not Applicable	Not Applicable
+	"2018"	"2018"	"Aug., 2018"	"2018/08"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Male"	"M"	Suppressed	Not Applicable	Not Applicable
+	"2018"	"2018"	"Aug., 2018"	"2018/08"	"White"	"2106-3"	"Female"	"F"	642	Not Applicable	Not Applicable
+	"2018"	"2018"	"Aug., 2018"	"2018/08"	"White"	"2106-3"	"Male"	"M"	1626	Not Applicable	Not Applicable
+	"2018"	"2018"	"Aug., 2018"	"2018/08"	"More than one race"	"M"	"Female"	"F"	Suppressed	Not Applicable	Not Applicable
+	"2018"	"2018"	"Aug., 2018"	"2018/08"	"More than one race"	"M"	"Male"	"M"	15	Not Applicable	Not Applicable
+	"2018"	"2018"	"Aug., 2018"	"2018/08"	"Not Available"	"999"	"Female"	"F"	0	Not Applicable	Not Applicable
+	"2018"	"2018"	"Aug., 2018"	"2018/08"	"Not Available"	"999"	"Male"	"M"	0	Not Applicable	Not Applicable
+	"2018"	"2018"	"Sep., 2018"	"2018/09"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	45	Not Applicable	Not Applicable
+	"2018"	"2018"	"Sep., 2018"	"2018/09"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	70	Not Applicable	Not Applicable
+	"2018"	"2018"	"Sep., 2018"	"2018/09"	"Asian"	"A"	"Female"	"F"	10	Not Applicable	Not Applicable
+	"2018"	"2018"	"Sep., 2018"	"2018/09"	"Asian"	"A"	"Male"	"M"	26	Not Applicable	Not Applicable
+	"2018"	"2018"	"Sep., 2018"	"2018/09"	"Black or African American"	"2054-5"	"Female"	"F"	72	Not Applicable	Not Applicable
+	"2018"	"2018"	"Sep., 2018"	"2018/09"	"Black or African American"	"2054-5"	"Male"	"M"	171	Not Applicable	Not Applicable
+	"2018"	"2018"	"Sep., 2018"	"2018/09"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Female"	"F"	Suppressed	Not Applicable	Not Applicable
+	"2018"	"2018"	"Sep., 2018"	"2018/09"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Male"	"M"	Suppressed	Not Applicable	Not Applicable
+	"2018"	"2018"	"Sep., 2018"	"2018/09"	"White"	"2106-3"	"Female"	"F"	638	Not Applicable	Not Applicable
+	"2018"	"2018"	"Sep., 2018"	"2018/09"	"White"	"2106-3"	"Male"	"M"	1504	Not Applicable	Not Applicable
+	"2018"	"2018"	"Sep., 2018"	"2018/09"	"More than one race"	"M"	"Female"	"F"	Suppressed	Not Applicable	Not Applicable
+	"2018"	"2018"	"Sep., 2018"	"2018/09"	"More than one race"	"M"	"Male"	"M"	19	Not Applicable	Not Applicable
+	"2018"	"2018"	"Sep., 2018"	"2018/09"	"Not Available"	"999"	"Female"	"F"	0	Not Applicable	Not Applicable
+	"2018"	"2018"	"Sep., 2018"	"2018/09"	"Not Available"	"999"	"Male"	"M"	0	Not Applicable	Not Applicable
+	"2018"	"2018"	"Oct., 2018"	"2018/10"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	47	Not Applicable	Not Applicable
+	"2018"	"2018"	"Oct., 2018"	"2018/10"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	69	Not Applicable	Not Applicable
+	"2018"	"2018"	"Oct., 2018"	"2018/10"	"Asian"	"A"	"Female"	"F"	Suppressed	Not Applicable	Not Applicable
+	"2018"	"2018"	"Oct., 2018"	"2018/10"	"Asian"	"A"	"Male"	"M"	31	Not Applicable	Not Applicable
+	"2018"	"2018"	"Oct., 2018"	"2018/10"	"Black or African American"	"2054-5"	"Female"	"F"	78	Not Applicable	Not Applicable
+	"2018"	"2018"	"Oct., 2018"	"2018/10"	"Black or African American"	"2054-5"	"Male"	"M"	171	Not Applicable	Not Applicable
+	"2018"	"2018"	"Oct., 2018"	"2018/10"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Female"	"F"	0	Not Applicable	Not Applicable
+	"2018"	"2018"	"Oct., 2018"	"2018/10"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Male"	"M"	Suppressed	Not Applicable	Not Applicable
+	"2018"	"2018"	"Oct., 2018"	"2018/10"	"White"	"2106-3"	"Female"	"F"	664	Not Applicable	Not Applicable
+	"2018"	"2018"	"Oct., 2018"	"2018/10"	"White"	"2106-3"	"Male"	"M"	1595	Not Applicable	Not Applicable
+	"2018"	"2018"	"Oct., 2018"	"2018/10"	"More than one race"	"M"	"Female"	"F"	Suppressed	Not Applicable	Not Applicable
+	"2018"	"2018"	"Oct., 2018"	"2018/10"	"More than one race"	"M"	"Male"	"M"	Suppressed	Not Applicable	Not Applicable
+	"2018"	"2018"	"Oct., 2018"	"2018/10"	"Not Available"	"999"	"Female"	"F"	0	Not Applicable	Not Applicable
+	"2018"	"2018"	"Oct., 2018"	"2018/10"	"Not Available"	"999"	"Male"	"M"	0	Not Applicable	Not Applicable
+	"2018"	"2018"	"Nov., 2018"	"2018/11"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	42	Not Applicable	Not Applicable
+	"2018"	"2018"	"Nov., 2018"	"2018/11"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	68	Not Applicable	Not Applicable
+	"2018"	"2018"	"Nov., 2018"	"2018/11"	"Asian"	"A"	"Female"	"F"	10	Not Applicable	Not Applicable
+	"2018"	"2018"	"Nov., 2018"	"2018/11"	"Asian"	"A"	"Male"	"M"	30	Not Applicable	Not Applicable
+	"2018"	"2018"	"Nov., 2018"	"2018/11"	"Black or African American"	"2054-5"	"Female"	"F"	83	Not Applicable	Not Applicable
+	"2018"	"2018"	"Nov., 2018"	"2018/11"	"Black or African American"	"2054-5"	"Male"	"M"	191	Not Applicable	Not Applicable
+	"2018"	"2018"	"Nov., 2018"	"2018/11"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Female"	"F"	Suppressed	Not Applicable	Not Applicable
+	"2018"	"2018"	"Nov., 2018"	"2018/11"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Male"	"M"	0	Not Applicable	Not Applicable
+	"2018"	"2018"	"Nov., 2018"	"2018/11"	"White"	"2106-3"	"Female"	"F"	705	Not Applicable	Not Applicable
+	"2018"	"2018"	"Nov., 2018"	"2018/11"	"White"	"2106-3"	"Male"	"M"	1642	Not Applicable	Not Applicable
+	"2018"	"2018"	"Nov., 2018"	"2018/11"	"More than one race"	"M"	"Female"	"F"	Suppressed	Not Applicable	Not Applicable
+	"2018"	"2018"	"Nov., 2018"	"2018/11"	"More than one race"	"M"	"Male"	"M"	13	Not Applicable	Not Applicable
+	"2018"	"2018"	"Nov., 2018"	"2018/11"	"Not Available"	"999"	"Female"	"F"	0	Not Applicable	Not Applicable
+	"2018"	"2018"	"Nov., 2018"	"2018/11"	"Not Available"	"999"	"Male"	"M"	0	Not Applicable	Not Applicable
+	"2018"	"2018"	"Dec., 2018"	"2018/12"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	48	Not Applicable	Not Applicable
+	"2018"	"2018"	"Dec., 2018"	"2018/12"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	61	Not Applicable	Not Applicable
+	"2018"	"2018"	"Dec., 2018"	"2018/12"	"Asian"	"A"	"Female"	"F"	Suppressed	Not Applicable	Not Applicable
+	"2018"	"2018"	"Dec., 2018"	"2018/12"	"Asian"	"A"	"Male"	"M"	36	Not Applicable	Not Applicable
+	"2018"	"2018"	"Dec., 2018"	"2018/12"	"Black or African American"	"2054-5"	"Female"	"F"	81	Not Applicable	Not Applicable
+	"2018"	"2018"	"Dec., 2018"	"2018/12"	"Black or African American"	"2054-5"	"Male"	"M"	185	Not Applicable	Not Applicable
+	"2018"	"2018"	"Dec., 2018"	"2018/12"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Female"	"F"	0	Not Applicable	Not Applicable
+	"2018"	"2018"	"Dec., 2018"	"2018/12"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Male"	"M"	Suppressed	Not Applicable	Not Applicable
+	"2018"	"2018"	"Dec., 2018"	"2018/12"	"White"	"2106-3"	"Female"	"F"	676	Not Applicable	Not Applicable
+	"2018"	"2018"	"Dec., 2018"	"2018/12"	"White"	"2106-3"	"Male"	"M"	1632	Not Applicable	Not Applicable
+	"2018"	"2018"	"Dec., 2018"	"2018/12"	"More than one race"	"M"	"Female"	"F"	Suppressed	Not Applicable	Not Applicable
+	"2018"	"2018"	"Dec., 2018"	"2018/12"	"More than one race"	"M"	"Male"	"M"	16	Not Applicable	Not Applicable
+	"2018"	"2018"	"Dec., 2018"	"2018/12"	"Not Available"	"999"	"Female"	"F"	0	Not Applicable	Not Applicable
+	"2018"	"2018"	"Dec., 2018"	"2018/12"	"Not Available"	"999"	"Male"	"M"	0	Not Applicable	Not Applicable
+	"2019"	"2019"	"Jan., 2019"	"2019/01"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	48	Not Applicable	Not Applicable
+	"2019"	"2019"	"Jan., 2019"	"2019/01"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	74	Not Applicable	Not Applicable
+	"2019"	"2019"	"Jan., 2019"	"2019/01"	"Asian"	"A"	"Female"	"F"	Suppressed	Not Applicable	Not Applicable
+	"2019"	"2019"	"Jan., 2019"	"2019/01"	"Asian"	"A"	"Male"	"M"	38	Not Applicable	Not Applicable
+	"2019"	"2019"	"Jan., 2019"	"2019/01"	"Black or African American"	"2054-5"	"Female"	"F"	96	Not Applicable	Not Applicable
+	"2019"	"2019"	"Jan., 2019"	"2019/01"	"Black or African American"	"2054-5"	"Male"	"M"	239	Not Applicable	Not Applicable
+	"2019"	"2019"	"Jan., 2019"	"2019/01"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Female"	"F"	0	Not Applicable	Not Applicable
+	"2019"	"2019"	"Jan., 2019"	"2019/01"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Male"	"M"	0	Not Applicable	Not Applicable
+	"2019"	"2019"	"Jan., 2019"	"2019/01"	"White"	"2106-3"	"Female"	"F"	720	Not Applicable	Not Applicable
+	"2019"	"2019"	"Jan., 2019"	"2019/01"	"White"	"2106-3"	"Male"	"M"	1691	Not Applicable	Not Applicable
+	"2019"	"2019"	"Jan., 2019"	"2019/01"	"More than one race"	"M"	"Female"	"F"	10	Not Applicable	Not Applicable
+	"2019"	"2019"	"Jan., 2019"	"2019/01"	"More than one race"	"M"	"Male"	"M"	15	Not Applicable	Not Applicable
+	"2019"	"2019"	"Jan., 2019"	"2019/01"	"Not Available"	"999"	"Female"	"F"	0	Not Applicable	Not Applicable
+	"2019"	"2019"	"Jan., 2019"	"2019/01"	"Not Available"	"999"	"Male"	"M"	0	Not Applicable	Not Applicable
+	"2019"	"2019"	"Feb., 2019"	"2019/02"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	28	Not Applicable	Not Applicable
+	"2019"	"2019"	"Feb., 2019"	"2019/02"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	58	Not Applicable	Not Applicable
+	"2019"	"2019"	"Feb., 2019"	"2019/02"	"Asian"	"A"	"Female"	"F"	Suppressed	Not Applicable	Not Applicable
+	"2019"	"2019"	"Feb., 2019"	"2019/02"	"Asian"	"A"	"Male"	"M"	32	Not Applicable	Not Applicable
+	"2019"	"2019"	"Feb., 2019"	"2019/02"	"Black or African American"	"2054-5"	"Female"	"F"	68	Not Applicable	Not Applicable
+	"2019"	"2019"	"Feb., 2019"	"2019/02"	"Black or African American"	"2054-5"	"Male"	"M"	220	Not Applicable	Not Applicable
+	"2019"	"2019"	"Feb., 2019"	"2019/02"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Female"	"F"	0	Not Applicable	Not Applicable
+	"2019"	"2019"	"Feb., 2019"	"2019/02"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Male"	"M"	Suppressed	Not Applicable	Not Applicable
+	"2019"	"2019"	"Feb., 2019"	"2019/02"	"White"	"2106-3"	"Female"	"F"	641	Not Applicable	Not Applicable
+	"2019"	"2019"	"Feb., 2019"	"2019/02"	"White"	"2106-3"	"Male"	"M"	1522	Not Applicable	Not Applicable
+	"2019"	"2019"	"Feb., 2019"	"2019/02"	"More than one race"	"M"	"Female"	"F"	Suppressed	Not Applicable	Not Applicable
+	"2019"	"2019"	"Feb., 2019"	"2019/02"	"More than one race"	"M"	"Male"	"M"	12	Not Applicable	Not Applicable
+	"2019"	"2019"	"Feb., 2019"	"2019/02"	"Not Available"	"999"	"Female"	"F"	0	Not Applicable	Not Applicable
+	"2019"	"2019"	"Feb., 2019"	"2019/02"	"Not Available"	"999"	"Male"	"M"	0	Not Applicable	Not Applicable
+	"2019"	"2019"	"Mar., 2019"	"2019/03"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	36	Not Applicable	Not Applicable
+	"2019"	"2019"	"Mar., 2019"	"2019/03"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	64	Not Applicable	Not Applicable
+	"2019"	"2019"	"Mar., 2019"	"2019/03"	"Asian"	"A"	"Female"	"F"	Suppressed	Not Applicable	Not Applicable
+	"2019"	"2019"	"Mar., 2019"	"2019/03"	"Asian"	"A"	"Male"	"M"	32	Not Applicable	Not Applicable
+	"2019"	"2019"	"Mar., 2019"	"2019/03"	"Black or African American"	"2054-5"	"Female"	"F"	73	Not Applicable	Not Applicable
+	"2019"	"2019"	"Mar., 2019"	"2019/03"	"Black or African American"	"2054-5"	"Male"	"M"	204	Not Applicable	Not Applicable
+	"2019"	"2019"	"Mar., 2019"	"2019/03"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Female"	"F"	Suppressed	Not Applicable	Not Applicable
+	"2019"	"2019"	"Mar., 2019"	"2019/03"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Male"	"M"	Suppressed	Not Applicable	Not Applicable
+	"2019"	"2019"	"Mar., 2019"	"2019/03"	"White"	"2106-3"	"Female"	"F"	650	Not Applicable	Not Applicable
+	"2019"	"2019"	"Mar., 2019"	"2019/03"	"White"	"2106-3"	"Male"	"M"	1681	Not Applicable	Not Applicable
+	"2019"	"2019"	"Mar., 2019"	"2019/03"	"More than one race"	"M"	"Female"	"F"	Suppressed	Not Applicable	Not Applicable
+	"2019"	"2019"	"Mar., 2019"	"2019/03"	"More than one race"	"M"	"Male"	"M"	13	Not Applicable	Not Applicable
+	"2019"	"2019"	"Mar., 2019"	"2019/03"	"Not Available"	"999"	"Female"	"F"	0	Not Applicable	Not Applicable
+	"2019"	"2019"	"Mar., 2019"	"2019/03"	"Not Available"	"999"	"Male"	"M"	0	Not Applicable	Not Applicable
+	"2019"	"2019"	"Apr., 2019"	"2019/04"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	50	Not Applicable	Not Applicable
+	"2019"	"2019"	"Apr., 2019"	"2019/04"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	60	Not Applicable	Not Applicable
+	"2019"	"2019"	"Apr., 2019"	"2019/04"	"Asian"	"A"	"Female"	"F"	14	Not Applicable	Not Applicable
+	"2019"	"2019"	"Apr., 2019"	"2019/04"	"Asian"	"A"	"Male"	"M"	32	Not Applicable	Not Applicable
+	"2019"	"2019"	"Apr., 2019"	"2019/04"	"Black or African American"	"2054-5"	"Female"	"F"	82	Not Applicable	Not Applicable
+	"2019"	"2019"	"Apr., 2019"	"2019/04"	"Black or African American"	"2054-5"	"Male"	"M"	186	Not Applicable	Not Applicable
+	"2019"	"2019"	"Apr., 2019"	"2019/04"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Female"	"F"	Suppressed	Not Applicable	Not Applicable
+	"2019"	"2019"	"Apr., 2019"	"2019/04"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Male"	"M"	Suppressed	Not Applicable	Not Applicable
+	"2019"	"2019"	"Apr., 2019"	"2019/04"	"White"	"2106-3"	"Female"	"F"	686	Not Applicable	Not Applicable
+	"2019"	"2019"	"Apr., 2019"	"2019/04"	"White"	"2106-3"	"Male"	"M"	1529	Not Applicable	Not Applicable
+	"2019"	"2019"	"Apr., 2019"	"2019/04"	"More than one race"	"M"	"Female"	"F"	Suppressed	Not Applicable	Not Applicable
+	"2019"	"2019"	"Apr., 2019"	"2019/04"	"More than one race"	"M"	"Male"	"M"	16	Not Applicable	Not Applicable
+	"2019"	"2019"	"Apr., 2019"	"2019/04"	"Not Available"	"999"	"Female"	"F"	0	Not Applicable	Not Applicable
+	"2019"	"2019"	"Apr., 2019"	"2019/04"	"Not Available"	"999"	"Male"	"M"	0	Not Applicable	Not Applicable
+	"2019"	"2019"	"May, 2019"	"2019/05"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	47	Not Applicable	Not Applicable
+	"2019"	"2019"	"May, 2019"	"2019/05"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	61	Not Applicable	Not Applicable
+	"2019"	"2019"	"May, 2019"	"2019/05"	"Asian"	"A"	"Female"	"F"	Suppressed	Not Applicable	Not Applicable
+	"2019"	"2019"	"May, 2019"	"2019/05"	"Asian"	"A"	"Male"	"M"	20	Not Applicable	Not Applicable
+	"2019"	"2019"	"May, 2019"	"2019/05"	"Black or African American"	"2054-5"	"Female"	"F"	72	Not Applicable	Not Applicable
+	"2019"	"2019"	"May, 2019"	"2019/05"	"Black or African American"	"2054-5"	"Male"	"M"	190	Not Applicable	Not Applicable
+	"2019"	"2019"	"May, 2019"	"2019/05"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Female"	"F"	Suppressed	Not Applicable	Not Applicable
+	"2019"	"2019"	"May, 2019"	"2019/05"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Male"	"M"	Suppressed	Not Applicable	Not Applicable
+	"2019"	"2019"	"May, 2019"	"2019/05"	"White"	"2106-3"	"Female"	"F"	712	Not Applicable	Not Applicable
+	"2019"	"2019"	"May, 2019"	"2019/05"	"White"	"2106-3"	"Male"	"M"	1639	Not Applicable	Not Applicable
+	"2019"	"2019"	"May, 2019"	"2019/05"	"More than one race"	"M"	"Female"	"F"	Suppressed	Not Applicable	Not Applicable
+	"2019"	"2019"	"May, 2019"	"2019/05"	"More than one race"	"M"	"Male"	"M"	15	Not Applicable	Not Applicable
+	"2019"	"2019"	"May, 2019"	"2019/05"	"Not Available"	"999"	"Female"	"F"	0	Not Applicable	Not Applicable
+	"2019"	"2019"	"May, 2019"	"2019/05"	"Not Available"	"999"	"Male"	"M"	0	Not Applicable	Not Applicable
+	"2019"	"2019"	"Jun., 2019"	"2019/06"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	42	Not Applicable	Not Applicable
+	"2019"	"2019"	"Jun., 2019"	"2019/06"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	65	Not Applicable	Not Applicable
+	"2019"	"2019"	"Jun., 2019"	"2019/06"	"Asian"	"A"	"Female"	"F"	10	Not Applicable	Not Applicable
+	"2019"	"2019"	"Jun., 2019"	"2019/06"	"Asian"	"A"	"Male"	"M"	31	Not Applicable	Not Applicable
+	"2019"	"2019"	"Jun., 2019"	"2019/06"	"Black or African American"	"2054-5"	"Female"	"F"	71	Not Applicable	Not Applicable
+	"2019"	"2019"	"Jun., 2019"	"2019/06"	"Black or African American"	"2054-5"	"Male"	"M"	203	Not Applicable	Not Applicable
+	"2019"	"2019"	"Jun., 2019"	"2019/06"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Female"	"F"	Suppressed	Not Applicable	Not Applicable
+	"2019"	"2019"	"Jun., 2019"	"2019/06"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Male"	"M"	Suppressed	Not Applicable	Not Applicable
+	"2019"	"2019"	"Jun., 2019"	"2019/06"	"White"	"2106-3"	"Female"	"F"	675	Not Applicable	Not Applicable
+	"2019"	"2019"	"Jun., 2019"	"2019/06"	"White"	"2106-3"	"Male"	"M"	1604	Not Applicable	Not Applicable
+	"2019"	"2019"	"Jun., 2019"	"2019/06"	"More than one race"	"M"	"Female"	"F"	12	Not Applicable	Not Applicable
+	"2019"	"2019"	"Jun., 2019"	"2019/06"	"More than one race"	"M"	"Male"	"M"	14	Not Applicable	Not Applicable
+	"2019"	"2019"	"Jun., 2019"	"2019/06"	"Not Available"	"999"	"Female"	"F"	0	Not Applicable	Not Applicable
+	"2019"	"2019"	"Jun., 2019"	"2019/06"	"Not Available"	"999"	"Male"	"M"	0	Not Applicable	Not Applicable
+	"2019"	"2019"	"Jul., 2019"	"2019/07"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	42	Not Applicable	Not Applicable
+	"2019"	"2019"	"Jul., 2019"	"2019/07"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	73	Not Applicable	Not Applicable
+	"2019"	"2019"	"Jul., 2019"	"2019/07"	"Asian"	"A"	"Female"	"F"	Suppressed	Not Applicable	Not Applicable
+	"2019"	"2019"	"Jul., 2019"	"2019/07"	"Asian"	"A"	"Male"	"M"	32	Not Applicable	Not Applicable
+	"2019"	"2019"	"Jul., 2019"	"2019/07"	"Black or African American"	"2054-5"	"Female"	"F"	79	Not Applicable	Not Applicable
+	"2019"	"2019"	"Jul., 2019"	"2019/07"	"Black or African American"	"2054-5"	"Male"	"M"	213	Not Applicable	Not Applicable
+	"2019"	"2019"	"Jul., 2019"	"2019/07"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Female"	"F"	Suppressed	Not Applicable	Not Applicable
+	"2019"	"2019"	"Jul., 2019"	"2019/07"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Male"	"M"	Suppressed	Not Applicable	Not Applicable
+	"2019"	"2019"	"Jul., 2019"	"2019/07"	"White"	"2106-3"	"Female"	"F"	716	Not Applicable	Not Applicable
+	"2019"	"2019"	"Jul., 2019"	"2019/07"	"White"	"2106-3"	"Male"	"M"	1664	Not Applicable	Not Applicable
+	"2019"	"2019"	"Jul., 2019"	"2019/07"	"More than one race"	"M"	"Female"	"F"	Suppressed	Not Applicable	Not Applicable
+	"2019"	"2019"	"Jul., 2019"	"2019/07"	"More than one race"	"M"	"Male"	"M"	11	Not Applicable	Not Applicable
+	"2019"	"2019"	"Jul., 2019"	"2019/07"	"Not Available"	"999"	"Female"	"F"	0	Not Applicable	Not Applicable
+	"2019"	"2019"	"Jul., 2019"	"2019/07"	"Not Available"	"999"	"Male"	"M"	0	Not Applicable	Not Applicable
+	"2019"	"2019"	"Aug., 2019"	"2019/08"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	47	Not Applicable	Not Applicable
+	"2019"	"2019"	"Aug., 2019"	"2019/08"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	66	Not Applicable	Not Applicable
+	"2019"	"2019"	"Aug., 2019"	"2019/08"	"Asian"	"A"	"Female"	"F"	Suppressed	Not Applicable	Not Applicable
+	"2019"	"2019"	"Aug., 2019"	"2019/08"	"Asian"	"A"	"Male"	"M"	21	Not Applicable	Not Applicable
+	"2019"	"2019"	"Aug., 2019"	"2019/08"	"Black or African American"	"2054-5"	"Female"	"F"	80	Not Applicable	Not Applicable
+	"2019"	"2019"	"Aug., 2019"	"2019/08"	"Black or African American"	"2054-5"	"Male"	"M"	187	Not Applicable	Not Applicable
+	"2019"	"2019"	"Aug., 2019"	"2019/08"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Female"	"F"	0	Not Applicable	Not Applicable
+	"2019"	"2019"	"Aug., 2019"	"2019/08"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Male"	"M"	Suppressed	Not Applicable	Not Applicable
+	"2019"	"2019"	"Aug., 2019"	"2019/08"	"White"	"2106-3"	"Female"	"F"	694	Not Applicable	Not Applicable
+	"2019"	"2019"	"Aug., 2019"	"2019/08"	"White"	"2106-3"	"Male"	"M"	1598	Not Applicable	Not Applicable
+	"2019"	"2019"	"Aug., 2019"	"2019/08"	"More than one race"	"M"	"Female"	"F"	Suppressed	Not Applicable	Not Applicable
+	"2019"	"2019"	"Aug., 2019"	"2019/08"	"More than one race"	"M"	"Male"	"M"	11	Not Applicable	Not Applicable
+	"2019"	"2019"	"Aug., 2019"	"2019/08"	"Not Available"	"999"	"Female"	"F"	0	Not Applicable	Not Applicable
+	"2019"	"2019"	"Aug., 2019"	"2019/08"	"Not Available"	"999"	"Male"	"M"	0	Not Applicable	Not Applicable
+	"2019"	"2019"	"Sep., 2019"	"2019/09"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	44	Not Applicable	Not Applicable
+	"2019"	"2019"	"Sep., 2019"	"2019/09"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	61	Not Applicable	Not Applicable
+	"2019"	"2019"	"Sep., 2019"	"2019/09"	"Asian"	"A"	"Female"	"F"	Suppressed	Not Applicable	Not Applicable
+	"2019"	"2019"	"Sep., 2019"	"2019/09"	"Asian"	"A"	"Male"	"M"	29	Not Applicable	Not Applicable
+	"2019"	"2019"	"Sep., 2019"	"2019/09"	"Black or African American"	"2054-5"	"Female"	"F"	87	Not Applicable	Not Applicable
+	"2019"	"2019"	"Sep., 2019"	"2019/09"	"Black or African American"	"2054-5"	"Male"	"M"	186	Not Applicable	Not Applicable
+	"2019"	"2019"	"Sep., 2019"	"2019/09"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Female"	"F"	0	Not Applicable	Not Applicable
+	"2019"	"2019"	"Sep., 2019"	"2019/09"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Male"	"M"	0	Not Applicable	Not Applicable
+	"2019"	"2019"	"Sep., 2019"	"2019/09"	"White"	"2106-3"	"Female"	"F"	680	Not Applicable	Not Applicable
+	"2019"	"2019"	"Sep., 2019"	"2019/09"	"White"	"2106-3"	"Male"	"M"	1596	Not Applicable	Not Applicable
+	"2019"	"2019"	"Sep., 2019"	"2019/09"	"More than one race"	"M"	"Female"	"F"	Suppressed	Not Applicable	Not Applicable
+	"2019"	"2019"	"Sep., 2019"	"2019/09"	"More than one race"	"M"	"Male"	"M"	12	Not Applicable	Not Applicable
+	"2019"	"2019"	"Sep., 2019"	"2019/09"	"Not Available"	"999"	"Female"	"F"	0	Not Applicable	Not Applicable
+	"2019"	"2019"	"Sep., 2019"	"2019/09"	"Not Available"	"999"	"Male"	"M"	0	Not Applicable	Not Applicable
+	"2019"	"2019"	"Oct., 2019"	"2019/10"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	60	Not Applicable	Not Applicable
+	"2019"	"2019"	"Oct., 2019"	"2019/10"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	58	Not Applicable	Not Applicable
+	"2019"	"2019"	"Oct., 2019"	"2019/10"	"Asian"	"A"	"Female"	"F"	Suppressed	Not Applicable	Not Applicable
+	"2019"	"2019"	"Oct., 2019"	"2019/10"	"Asian"	"A"	"Male"	"M"	35	Not Applicable	Not Applicable
+	"2019"	"2019"	"Oct., 2019"	"2019/10"	"Black or African American"	"2054-5"	"Female"	"F"	85	Not Applicable	Not Applicable
+	"2019"	"2019"	"Oct., 2019"	"2019/10"	"Black or African American"	"2054-5"	"Male"	"M"	180	Not Applicable	Not Applicable
+	"2019"	"2019"	"Oct., 2019"	"2019/10"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Female"	"F"	Suppressed	Not Applicable	Not Applicable
+	"2019"	"2019"	"Oct., 2019"	"2019/10"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Male"	"M"	Suppressed	Not Applicable	Not Applicable
+	"2019"	"2019"	"Oct., 2019"	"2019/10"	"White"	"2106-3"	"Female"	"F"	682	Not Applicable	Not Applicable
+	"2019"	"2019"	"Oct., 2019"	"2019/10"	"White"	"2106-3"	"Male"	"M"	1597	Not Applicable	Not Applicable
+	"2019"	"2019"	"Oct., 2019"	"2019/10"	"More than one race"	"M"	"Female"	"F"	Suppressed	Not Applicable	Not Applicable
+	"2019"	"2019"	"Oct., 2019"	"2019/10"	"More than one race"	"M"	"Male"	"M"	11	Not Applicable	Not Applicable
+	"2019"	"2019"	"Oct., 2019"	"2019/10"	"Not Available"	"999"	"Female"	"F"	0	Not Applicable	Not Applicable
+	"2019"	"2019"	"Oct., 2019"	"2019/10"	"Not Available"	"999"	"Male"	"M"	0	Not Applicable	Not Applicable
+	"2019"	"2019"	"Nov., 2019"	"2019/11"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	51	Not Applicable	Not Applicable
+	"2019"	"2019"	"Nov., 2019"	"2019/11"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	66	Not Applicable	Not Applicable
+	"2019"	"2019"	"Nov., 2019"	"2019/11"	"Asian"	"A"	"Female"	"F"	Suppressed	Not Applicable	Not Applicable
+	"2019"	"2019"	"Nov., 2019"	"2019/11"	"Asian"	"A"	"Male"	"M"	34	Not Applicable	Not Applicable
+	"2019"	"2019"	"Nov., 2019"	"2019/11"	"Black or African American"	"2054-5"	"Female"	"F"	92	Not Applicable	Not Applicable
+	"2019"	"2019"	"Nov., 2019"	"2019/11"	"Black or African American"	"2054-5"	"Male"	"M"	189	Not Applicable	Not Applicable
+	"2019"	"2019"	"Nov., 2019"	"2019/11"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Female"	"F"	0	Not Applicable	Not Applicable
+	"2019"	"2019"	"Nov., 2019"	"2019/11"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Male"	"M"	Suppressed	Not Applicable	Not Applicable
+	"2019"	"2019"	"Nov., 2019"	"2019/11"	"White"	"2106-3"	"Female"	"F"	769	Not Applicable	Not Applicable
+	"2019"	"2019"	"Nov., 2019"	"2019/11"	"White"	"2106-3"	"Male"	"M"	1683	Not Applicable	Not Applicable
+	"2019"	"2019"	"Nov., 2019"	"2019/11"	"More than one race"	"M"	"Female"	"F"	Suppressed	Not Applicable	Not Applicable
+	"2019"	"2019"	"Nov., 2019"	"2019/11"	"More than one race"	"M"	"Male"	"M"	Suppressed	Not Applicable	Not Applicable
+	"2019"	"2019"	"Nov., 2019"	"2019/11"	"Not Available"	"999"	"Female"	"F"	0	Not Applicable	Not Applicable
+	"2019"	"2019"	"Nov., 2019"	"2019/11"	"Not Available"	"999"	"Male"	"M"	0	Not Applicable	Not Applicable
+	"2019"	"2019"	"Dec., 2019"	"2019/12"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	35	Not Applicable	Not Applicable
+	"2019"	"2019"	"Dec., 2019"	"2019/12"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	79	Not Applicable	Not Applicable
+	"2019"	"2019"	"Dec., 2019"	"2019/12"	"Asian"	"A"	"Female"	"F"	14	Not Applicable	Not Applicable
+	"2019"	"2019"	"Dec., 2019"	"2019/12"	"Asian"	"A"	"Male"	"M"	32	Not Applicable	Not Applicable
+	"2019"	"2019"	"Dec., 2019"	"2019/12"	"Black or African American"	"2054-5"	"Female"	"F"	97	Not Applicable	Not Applicable
+	"2019"	"2019"	"Dec., 2019"	"2019/12"	"Black or African American"	"2054-5"	"Male"	"M"	212	Not Applicable	Not Applicable
+	"2019"	"2019"	"Dec., 2019"	"2019/12"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Female"	"F"	0	Not Applicable	Not Applicable
+	"2019"	"2019"	"Dec., 2019"	"2019/12"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Male"	"M"	Suppressed	Not Applicable	Not Applicable
+	"2019"	"2019"	"Dec., 2019"	"2019/12"	"White"	"2106-3"	"Female"	"F"	738	Not Applicable	Not Applicable
+	"2019"	"2019"	"Dec., 2019"	"2019/12"	"White"	"2106-3"	"Male"	"M"	1784	Not Applicable	Not Applicable
+	"2019"	"2019"	"Dec., 2019"	"2019/12"	"More than one race"	"M"	"Female"	"F"	Suppressed	Not Applicable	Not Applicable
+	"2019"	"2019"	"Dec., 2019"	"2019/12"	"More than one race"	"M"	"Male"	"M"	Suppressed	Not Applicable	Not Applicable
+	"2019"	"2019"	"Dec., 2019"	"2019/12"	"Not Available"	"999"	"Female"	"F"	0	Not Applicable	Not Applicable
+	"2019"	"2019"	"Dec., 2019"	"2019/12"	"Not Available"	"999"	"Male"	"M"	0	Not Applicable	Not Applicable
+	"2020"	"2020"	"Jan., 2020"	"2020/01"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	52	Not Applicable	Not Applicable
+	"2020"	"2020"	"Jan., 2020"	"2020/01"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	71	Not Applicable	Not Applicable
+	"2020"	"2020"	"Jan., 2020"	"2020/01"	"Asian"	"A"	"Female"	"F"	Suppressed	Not Applicable	Not Applicable
+	"2020"	"2020"	"Jan., 2020"	"2020/01"	"Asian"	"A"	"Male"	"M"	41	Not Applicable	Not Applicable
+	"2020"	"2020"	"Jan., 2020"	"2020/01"	"Black or African American"	"2054-5"	"Female"	"F"	79	Not Applicable	Not Applicable
+	"2020"	"2020"	"Jan., 2020"	"2020/01"	"Black or African American"	"2054-5"	"Male"	"M"	234	Not Applicable	Not Applicable
+	"2020"	"2020"	"Jan., 2020"	"2020/01"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Female"	"F"	0	Not Applicable	Not Applicable
+	"2020"	"2020"	"Jan., 2020"	"2020/01"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Male"	"M"	Suppressed	Not Applicable	Not Applicable
+	"2020"	"2020"	"Jan., 2020"	"2020/01"	"White"	"2106-3"	"Female"	"F"	824	Not Applicable	Not Applicable
+	"2020"	"2020"	"Jan., 2020"	"2020/01"	"White"	"2106-3"	"Male"	"M"	1851	Not Applicable	Not Applicable
+	"2020"	"2020"	"Jan., 2020"	"2020/01"	"More than one race"	"M"	"Female"	"F"	17	Not Applicable	Not Applicable
+	"2020"	"2020"	"Jan., 2020"	"2020/01"	"More than one race"	"M"	"Male"	"M"	16	Not Applicable	Not Applicable
+	"2020"	"2020"	"Jan., 2020"	"2020/01"	"Not Available"	"999"	"Female"	"F"	0	Not Applicable	Not Applicable
+	"2020"	"2020"	"Jan., 2020"	"2020/01"	"Not Available"	"999"	"Male"	"M"	0	Not Applicable	Not Applicable
+	"2020"	"2020"	"Feb., 2020"	"2020/02"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	36	Not Applicable	Not Applicable
+	"2020"	"2020"	"Feb., 2020"	"2020/02"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	59	Not Applicable	Not Applicable
+	"2020"	"2020"	"Feb., 2020"	"2020/02"	"Asian"	"A"	"Female"	"F"	Suppressed	Not Applicable	Not Applicable
+	"2020"	"2020"	"Feb., 2020"	"2020/02"	"Asian"	"A"	"Male"	"M"	39	Not Applicable	Not Applicable
+	"2020"	"2020"	"Feb., 2020"	"2020/02"	"Black or African American"	"2054-5"	"Female"	"F"	85	Not Applicable	Not Applicable
+	"2020"	"2020"	"Feb., 2020"	"2020/02"	"Black or African American"	"2054-5"	"Male"	"M"	176	Not Applicable	Not Applicable
+	"2020"	"2020"	"Feb., 2020"	"2020/02"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Female"	"F"	Suppressed	Not Applicable	Not Applicable
+	"2020"	"2020"	"Feb., 2020"	"2020/02"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Male"	"M"	Suppressed	Not Applicable	Not Applicable
+	"2020"	"2020"	"Feb., 2020"	"2020/02"	"White"	"2106-3"	"Female"	"F"	667	Not Applicable	Not Applicable
+	"2020"	"2020"	"Feb., 2020"	"2020/02"	"White"	"2106-3"	"Male"	"M"	1692	Not Applicable	Not Applicable
+	"2020"	"2020"	"Feb., 2020"	"2020/02"	"More than one race"	"M"	"Female"	"F"	Suppressed	Not Applicable	Not Applicable
+	"2020"	"2020"	"Feb., 2020"	"2020/02"	"More than one race"	"M"	"Male"	"M"	21	Not Applicable	Not Applicable
+	"2020"	"2020"	"Feb., 2020"	"2020/02"	"Not Available"	"999"	"Female"	"F"	0	Not Applicable	Not Applicable
+	"2020"	"2020"	"Feb., 2020"	"2020/02"	"Not Available"	"999"	"Male"	"M"	0	Not Applicable	Not Applicable
+	"2020"	"2020"	"Mar., 2020"	"2020/03"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	47	Not Applicable	Not Applicable
+	"2020"	"2020"	"Mar., 2020"	"2020/03"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	75	Not Applicable	Not Applicable
+	"2020"	"2020"	"Mar., 2020"	"2020/03"	"Asian"	"A"	"Female"	"F"	10	Not Applicable	Not Applicable
+	"2020"	"2020"	"Mar., 2020"	"2020/03"	"Asian"	"A"	"Male"	"M"	47	Not Applicable	Not Applicable
+	"2020"	"2020"	"Mar., 2020"	"2020/03"	"Black or African American"	"2054-5"	"Female"	"F"	85	Not Applicable	Not Applicable
+	"2020"	"2020"	"Mar., 2020"	"2020/03"	"Black or African American"	"2054-5"	"Male"	"M"	239	Not Applicable	Not Applicable
+	"2020"	"2020"	"Mar., 2020"	"2020/03"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Female"	"F"	Suppressed	Not Applicable	Not Applicable
+	"2020"	"2020"	"Mar., 2020"	"2020/03"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Male"	"M"	Suppressed	Not Applicable	Not Applicable
+	"2020"	"2020"	"Mar., 2020"	"2020/03"	"White"	"2106-3"	"Female"	"F"	739	Not Applicable	Not Applicable
+	"2020"	"2020"	"Mar., 2020"	"2020/03"	"White"	"2106-3"	"Male"	"M"	1811	Not Applicable	Not Applicable
+	"2020"	"2020"	"Mar., 2020"	"2020/03"	"More than one race"	"M"	"Female"	"F"	Suppressed	Not Applicable	Not Applicable
+	"2020"	"2020"	"Mar., 2020"	"2020/03"	"More than one race"	"M"	"Male"	"M"	13	Not Applicable	Not Applicable
+	"2020"	"2020"	"Mar., 2020"	"2020/03"	"Not Available"	"999"	"Female"	"F"	0	Not Applicable	Not Applicable
+	"2020"	"2020"	"Mar., 2020"	"2020/03"	"Not Available"	"999"	"Male"	"M"	0	Not Applicable	Not Applicable
+	"2020"	"2020"	"Apr., 2020"	"2020/04"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	49	Not Applicable	Not Applicable
+	"2020"	"2020"	"Apr., 2020"	"2020/04"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	70	Not Applicable	Not Applicable
+	"2020"	"2020"	"Apr., 2020"	"2020/04"	"Asian"	"A"	"Female"	"F"	Suppressed	Not Applicable	Not Applicable
+	"2020"	"2020"	"Apr., 2020"	"2020/04"	"Asian"	"A"	"Male"	"M"	49	Not Applicable	Not Applicable
+	"2020"	"2020"	"Apr., 2020"	"2020/04"	"Black or African American"	"2054-5"	"Female"	"F"	90	Not Applicable	Not Applicable
+	"2020"	"2020"	"Apr., 2020"	"2020/04"	"Black or African American"	"2054-5"	"Male"	"M"	214	Not Applicable	Not Applicable
+	"2020"	"2020"	"Apr., 2020"	"2020/04"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Female"	"F"	Suppressed	Not Applicable	Not Applicable
+	"2020"	"2020"	"Apr., 2020"	"2020/04"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Male"	"M"	Suppressed	Not Applicable	Not Applicable
+	"2020"	"2020"	"Apr., 2020"	"2020/04"	"White"	"2106-3"	"Female"	"F"	813	Not Applicable	Not Applicable
+	"2020"	"2020"	"Apr., 2020"	"2020/04"	"White"	"2106-3"	"Male"	"M"	1985	Not Applicable	Not Applicable
+	"2020"	"2020"	"Apr., 2020"	"2020/04"	"More than one race"	"M"	"Female"	"F"	Suppressed	Not Applicable	Not Applicable
+	"2020"	"2020"	"Apr., 2020"	"2020/04"	"More than one race"	"M"	"Male"	"M"	13	Not Applicable	Not Applicable
+	"2020"	"2020"	"Apr., 2020"	"2020/04"	"Not Available"	"999"	"Female"	"F"	0	Not Applicable	Not Applicable
+	"2020"	"2020"	"Apr., 2020"	"2020/04"	"Not Available"	"999"	"Male"	"M"	0	Not Applicable	Not Applicable
+	"2020"	"2020"	"May, 2020"	"2020/05"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	57	Not Applicable	Not Applicable
+	"2020"	"2020"	"May, 2020"	"2020/05"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	74	Not Applicable	Not Applicable
+	"2020"	"2020"	"May, 2020"	"2020/05"	"Asian"	"A"	"Female"	"F"	12	Not Applicable	Not Applicable
+	"2020"	"2020"	"May, 2020"	"2020/05"	"Asian"	"A"	"Male"	"M"	40	Not Applicable	Not Applicable
+	"2020"	"2020"	"May, 2020"	"2020/05"	"Black or African American"	"2054-5"	"Female"	"F"	115	Not Applicable	Not Applicable
+	"2020"	"2020"	"May, 2020"	"2020/05"	"Black or African American"	"2054-5"	"Male"	"M"	259	Not Applicable	Not Applicable
+	"2020"	"2020"	"May, 2020"	"2020/05"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Female"	"F"	0	Not Applicable	Not Applicable
+	"2020"	"2020"	"May, 2020"	"2020/05"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Male"	"M"	Suppressed	Not Applicable	Not Applicable
+	"2020"	"2020"	"May, 2020"	"2020/05"	"White"	"2106-3"	"Female"	"F"	838	Not Applicable	Not Applicable
+	"2020"	"2020"	"May, 2020"	"2020/05"	"White"	"2106-3"	"Male"	"M"	2067	Not Applicable	Not Applicable
+	"2020"	"2020"	"May, 2020"	"2020/05"	"More than one race"	"M"	"Female"	"F"	11	Not Applicable	Not Applicable
+	"2020"	"2020"	"May, 2020"	"2020/05"	"More than one race"	"M"	"Male"	"M"	25	Not Applicable	Not Applicable
+	"2020"	"2020"	"May, 2020"	"2020/05"	"Not Available"	"999"	"Female"	"F"	0	Not Applicable	Not Applicable
+	"2020"	"2020"	"May, 2020"	"2020/05"	"Not Available"	"999"	"Male"	"M"	0	Not Applicable	Not Applicable
+	"2020"	"2020"	"Jun., 2020"	"2020/06"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	55	Not Applicable	Not Applicable
+	"2020"	"2020"	"Jun., 2020"	"2020/06"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	106	Not Applicable	Not Applicable
+	"2020"	"2020"	"Jun., 2020"	"2020/06"	"Asian"	"A"	"Female"	"F"	10	Not Applicable	Not Applicable
+	"2020"	"2020"	"Jun., 2020"	"2020/06"	"Asian"	"A"	"Male"	"M"	47	Not Applicable	Not Applicable
+	"2020"	"2020"	"Jun., 2020"	"2020/06"	"Black or African American"	"2054-5"	"Female"	"F"	132	Not Applicable	Not Applicable
+	"2020"	"2020"	"Jun., 2020"	"2020/06"	"Black or African American"	"2054-5"	"Male"	"M"	238	Not Applicable	Not Applicable
+	"2020"	"2020"	"Jun., 2020"	"2020/06"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Female"	"F"	0	Not Applicable	Not Applicable
+	"2020"	"2020"	"Jun., 2020"	"2020/06"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Male"	"M"	Suppressed	Not Applicable	Not Applicable
+	"2020"	"2020"	"Jun., 2020"	"2020/06"	"White"	"2106-3"	"Female"	"F"	893	Not Applicable	Not Applicable
+	"2020"	"2020"	"Jun., 2020"	"2020/06"	"White"	"2106-3"	"Male"	"M"	2078	Not Applicable	Not Applicable
+	"2020"	"2020"	"Jun., 2020"	"2020/06"	"More than one race"	"M"	"Female"	"F"	Suppressed	Not Applicable	Not Applicable
+	"2020"	"2020"	"Jun., 2020"	"2020/06"	"More than one race"	"M"	"Male"	"M"	26	Not Applicable	Not Applicable
+	"2020"	"2020"	"Jun., 2020"	"2020/06"	"Not Available"	"999"	"Female"	"F"	0	Not Applicable	Not Applicable
+	"2020"	"2020"	"Jun., 2020"	"2020/06"	"Not Available"	"999"	"Male"	"M"	0	Not Applicable	Not Applicable
+	"2020"	"2020"	"Jul., 2020"	"2020/07"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	64	Not Applicable	Not Applicable
+	"2020"	"2020"	"Jul., 2020"	"2020/07"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	113	Not Applicable	Not Applicable
+	"2020"	"2020"	"Jul., 2020"	"2020/07"	"Asian"	"A"	"Female"	"F"	Suppressed	Not Applicable	Not Applicable
+	"2020"	"2020"	"Jul., 2020"	"2020/07"	"Asian"	"A"	"Male"	"M"	46	Not Applicable	Not Applicable
+	"2020"	"2020"	"Jul., 2020"	"2020/07"	"Black or African American"	"2054-5"	"Female"	"F"	109	Not Applicable	Not Applicable
+	"2020"	"2020"	"Jul., 2020"	"2020/07"	"Black or African American"	"2054-5"	"Male"	"M"	273	Not Applicable	Not Applicable
+	"2020"	"2020"	"Jul., 2020"	"2020/07"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Female"	"F"	Suppressed	Not Applicable	Not Applicable
+	"2020"	"2020"	"Jul., 2020"	"2020/07"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Male"	"M"	Suppressed	Not Applicable	Not Applicable
+	"2020"	"2020"	"Jul., 2020"	"2020/07"	"White"	"2106-3"	"Female"	"F"	922	Not Applicable	Not Applicable
+	"2020"	"2020"	"Jul., 2020"	"2020/07"	"White"	"2106-3"	"Male"	"M"	2287	Not Applicable	Not Applicable
+	"2020"	"2020"	"Jul., 2020"	"2020/07"	"More than one race"	"M"	"Female"	"F"	16	Not Applicable	Not Applicable
+	"2020"	"2020"	"Jul., 2020"	"2020/07"	"More than one race"	"M"	"Male"	"M"	31	Not Applicable	Not Applicable
+	"2020"	"2020"	"Jul., 2020"	"2020/07"	"Not Available"	"999"	"Female"	"F"	0	Not Applicable	Not Applicable
+	"2020"	"2020"	"Jul., 2020"	"2020/07"	"Not Available"	"999"	"Male"	"M"	0	Not Applicable	Not Applicable
+	"2020"	"2020"	"Aug., 2020"	"2020/08"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	83	Not Applicable	Not Applicable
+	"2020"	"2020"	"Aug., 2020"	"2020/08"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	93	Not Applicable	Not Applicable
+	"2020"	"2020"	"Aug., 2020"	"2020/08"	"Asian"	"A"	"Female"	"F"	Suppressed	Not Applicable	Not Applicable
+	"2020"	"2020"	"Aug., 2020"	"2020/08"	"Asian"	"A"	"Male"	"M"	42	Not Applicable	Not Applicable
+	"2020"	"2020"	"Aug., 2020"	"2020/08"	"Black or African American"	"2054-5"	"Female"	"F"	121	Not Applicable	Not Applicable
+	"2020"	"2020"	"Aug., 2020"	"2020/08"	"Black or African American"	"2054-5"	"Male"	"M"	265	Not Applicable	Not Applicable
+	"2020"	"2020"	"Aug., 2020"	"2020/08"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Female"	"F"	0	Not Applicable	Not Applicable
+	"2020"	"2020"	"Aug., 2020"	"2020/08"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Male"	"M"	Suppressed	Not Applicable	Not Applicable
+	"2020"	"2020"	"Aug., 2020"	"2020/08"	"White"	"2106-3"	"Female"	"F"	979	Not Applicable	Not Applicable
+	"2020"	"2020"	"Aug., 2020"	"2020/08"	"White"	"2106-3"	"Male"	"M"	2135	Not Applicable	Not Applicable
+	"2020"	"2020"	"Aug., 2020"	"2020/08"	"More than one race"	"M"	"Female"	"F"	10	Not Applicable	Not Applicable
+	"2020"	"2020"	"Aug., 2020"	"2020/08"	"More than one race"	"M"	"Male"	"M"	22	Not Applicable	Not Applicable
+	"2020"	"2020"	"Aug., 2020"	"2020/08"	"Not Available"	"999"	"Female"	"F"	0	Not Applicable	Not Applicable
+	"2020"	"2020"	"Aug., 2020"	"2020/08"	"Not Available"	"999"	"Male"	"M"	0	Not Applicable	Not Applicable
+	"2020"	"2020"	"Sep., 2020"	"2020/09"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	65	Not Applicable	Not Applicable
+	"2020"	"2020"	"Sep., 2020"	"2020/09"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	96	Not Applicable	Not Applicable
+	"2020"	"2020"	"Sep., 2020"	"2020/09"	"Asian"	"A"	"Female"	"F"	12	Not Applicable	Not Applicable
+	"2020"	"2020"	"Sep., 2020"	"2020/09"	"Asian"	"A"	"Male"	"M"	38	Not Applicable	Not Applicable
+	"2020"	"2020"	"Sep., 2020"	"2020/09"	"Black or African American"	"2054-5"	"Female"	"F"	105	Not Applicable	Not Applicable
+	"2020"	"2020"	"Sep., 2020"	"2020/09"	"Black or African American"	"2054-5"	"Male"	"M"	257	Not Applicable	Not Applicable
+	"2020"	"2020"	"Sep., 2020"	"2020/09"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Female"	"F"	Suppressed	Not Applicable	Not Applicable
+	"2020"	"2020"	"Sep., 2020"	"2020/09"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Male"	"M"	0	Not Applicable	Not Applicable
+	"2020"	"2020"	"Sep., 2020"	"2020/09"	"White"	"2106-3"	"Female"	"F"	905	Not Applicable	Not Applicable
+	"2020"	"2020"	"Sep., 2020"	"2020/09"	"White"	"2106-3"	"Male"	"M"	2100	Not Applicable	Not Applicable
+	"2020"	"2020"	"Sep., 2020"	"2020/09"	"More than one race"	"M"	"Female"	"F"	10	Not Applicable	Not Applicable
+	"2020"	"2020"	"Sep., 2020"	"2020/09"	"More than one race"	"M"	"Male"	"M"	19	Not Applicable	Not Applicable
+	"2020"	"2020"	"Sep., 2020"	"2020/09"	"Not Available"	"999"	"Female"	"F"	0	Not Applicable	Not Applicable
+	"2020"	"2020"	"Sep., 2020"	"2020/09"	"Not Available"	"999"	"Male"	"M"	0	Not Applicable	Not Applicable
+	"2020"	"2020"	"Oct., 2020"	"2020/10"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	76	Not Applicable	Not Applicable
+	"2020"	"2020"	"Oct., 2020"	"2020/10"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	107	Not Applicable	Not Applicable
+	"2020"	"2020"	"Oct., 2020"	"2020/10"	"Asian"	"A"	"Female"	"F"	Suppressed	Not Applicable	Not Applicable
+	"2020"	"2020"	"Oct., 2020"	"2020/10"	"Asian"	"A"	"Male"	"M"	35	Not Applicable	Not Applicable
+	"2020"	"2020"	"Oct., 2020"	"2020/10"	"Black or African American"	"2054-5"	"Female"	"F"	127	Not Applicable	Not Applicable
+	"2020"	"2020"	"Oct., 2020"	"2020/10"	"Black or African American"	"2054-5"	"Male"	"M"	286	Not Applicable	Not Applicable
+	"2020"	"2020"	"Oct., 2020"	"2020/10"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Female"	"F"	0	Not Applicable	Not Applicable
+	"2020"	"2020"	"Oct., 2020"	"2020/10"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Male"	"M"	Suppressed	Not Applicable	Not Applicable
+	"2020"	"2020"	"Oct., 2020"	"2020/10"	"White"	"2106-3"	"Female"	"F"	945	Not Applicable	Not Applicable
+	"2020"	"2020"	"Oct., 2020"	"2020/10"	"White"	"2106-3"	"Male"	"M"	2113	Not Applicable	Not Applicable
+	"2020"	"2020"	"Oct., 2020"	"2020/10"	"More than one race"	"M"	"Female"	"F"	15	Not Applicable	Not Applicable
+	"2020"	"2020"	"Oct., 2020"	"2020/10"	"More than one race"	"M"	"Male"	"M"	21	Not Applicable	Not Applicable
+	"2020"	"2020"	"Oct., 2020"	"2020/10"	"Not Available"	"999"	"Female"	"F"	0	Not Applicable	Not Applicable
+	"2020"	"2020"	"Oct., 2020"	"2020/10"	"Not Available"	"999"	"Male"	"M"	0	Not Applicable	Not Applicable
+	"2020"	"2020"	"Nov., 2020"	"2020/11"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	80	Not Applicable	Not Applicable
+	"2020"	"2020"	"Nov., 2020"	"2020/11"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	81	Not Applicable	Not Applicable
+	"2020"	"2020"	"Nov., 2020"	"2020/11"	"Asian"	"A"	"Female"	"F"	16	Not Applicable	Not Applicable
+	"2020"	"2020"	"Nov., 2020"	"2020/11"	"Asian"	"A"	"Male"	"M"	38	Not Applicable	Not Applicable
+	"2020"	"2020"	"Nov., 2020"	"2020/11"	"Black or African American"	"2054-5"	"Female"	"F"	104	Not Applicable	Not Applicable
+	"2020"	"2020"	"Nov., 2020"	"2020/11"	"Black or African American"	"2054-5"	"Male"	"M"	315	Not Applicable	Not Applicable
+	"2020"	"2020"	"Nov., 2020"	"2020/11"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Female"	"F"	Suppressed	Not Applicable	Not Applicable
+	"2020"	"2020"	"Nov., 2020"	"2020/11"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Male"	"M"	Suppressed	Not Applicable	Not Applicable
+	"2020"	"2020"	"Nov., 2020"	"2020/11"	"White"	"2106-3"	"Female"	"F"	975	Not Applicable	Not Applicable
+	"2020"	"2020"	"Nov., 2020"	"2020/11"	"White"	"2106-3"	"Male"	"M"	2141	Not Applicable	Not Applicable
+	"2020"	"2020"	"Nov., 2020"	"2020/11"	"More than one race"	"M"	"Female"	"F"	16	Not Applicable	Not Applicable
+	"2020"	"2020"	"Nov., 2020"	"2020/11"	"More than one race"	"M"	"Male"	"M"	17	Not Applicable	Not Applicable
+	"2020"	"2020"	"Nov., 2020"	"2020/11"	"Not Available"	"999"	"Female"	"F"	0	Not Applicable	Not Applicable
+	"2020"	"2020"	"Nov., 2020"	"2020/11"	"Not Available"	"999"	"Male"	"M"	0	Not Applicable	Not Applicable
+	"2020"	"2020"	"Dec., 2020"	"2020/12"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	70	Not Applicable	Not Applicable
+	"2020"	"2020"	"Dec., 2020"	"2020/12"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	97	Not Applicable	Not Applicable
+	"2020"	"2020"	"Dec., 2020"	"2020/12"	"Asian"	"A"	"Female"	"F"	10	Not Applicable	Not Applicable
+	"2020"	"2020"	"Dec., 2020"	"2020/12"	"Asian"	"A"	"Male"	"M"	45	Not Applicable	Not Applicable
+	"2020"	"2020"	"Dec., 2020"	"2020/12"	"Black or African American"	"2054-5"	"Female"	"F"	130	Not Applicable	Not Applicable
+	"2020"	"2020"	"Dec., 2020"	"2020/12"	"Black or African American"	"2054-5"	"Male"	"M"	291	Not Applicable	Not Applicable
+	"2020"	"2020"	"Dec., 2020"	"2020/12"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Female"	"F"	Suppressed	Not Applicable	Not Applicable
+	"2020"	"2020"	"Dec., 2020"	"2020/12"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Male"	"M"	Suppressed	Not Applicable	Not Applicable
+	"2020"	"2020"	"Dec., 2020"	"2020/12"	"White"	"2106-3"	"Female"	"F"	965	Not Applicable	Not Applicable
+	"2020"	"2020"	"Dec., 2020"	"2020/12"	"White"	"2106-3"	"Male"	"M"	2308	Not Applicable	Not Applicable
+	"2020"	"2020"	"Dec., 2020"	"2020/12"	"More than one race"	"M"	"Female"	"F"	14	Not Applicable	Not Applicable
+	"2020"	"2020"	"Dec., 2020"	"2020/12"	"More than one race"	"M"	"Male"	"M"	21	Not Applicable	Not Applicable
+	"2020"	"2020"	"Dec., 2020"	"2020/12"	"Not Available"	"999"	"Female"	"F"	0	Not Applicable	Not Applicable
+	"2020"	"2020"	"Dec., 2020"	"2020/12"	"Not Available"	"999"	"Male"	"M"	0	Not Applicable	Not Applicable
+	"2021"	"2021"	"Jan., 2021"	"2021/01"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	62	Not Applicable	Not Applicable
+	"2021"	"2021"	"Jan., 2021"	"2021/01"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	139	Not Applicable	Not Applicable
+	"2021"	"2021"	"Jan., 2021"	"2021/01"	"Asian"	"A"	"Female"	"F"	13	Not Applicable	Not Applicable
+	"2021"	"2021"	"Jan., 2021"	"2021/01"	"Asian"	"A"	"Male"	"M"	50	Not Applicable	Not Applicable
+	"2021"	"2021"	"Jan., 2021"	"2021/01"	"Black or African American"	"2054-5"	"Female"	"F"	119	Not Applicable	Not Applicable
+	"2021"	"2021"	"Jan., 2021"	"2021/01"	"Black or African American"	"2054-5"	"Male"	"M"	298	Not Applicable	Not Applicable
+	"2021"	"2021"	"Jan., 2021"	"2021/01"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Female"	"F"	Suppressed	Not Applicable	Not Applicable
+	"2021"	"2021"	"Jan., 2021"	"2021/01"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Male"	"M"	Suppressed	Not Applicable	Not Applicable
+	"2021"	"2021"	"Jan., 2021"	"2021/01"	"White"	"2106-3"	"Female"	"F"	1019	Not Applicable	Not Applicable
+	"2021"	"2021"	"Jan., 2021"	"2021/01"	"White"	"2106-3"	"Male"	"M"	2298	Not Applicable	Not Applicable
+	"2021"	"2021"	"Jan., 2021"	"2021/01"	"More than one race"	"M"	"Female"	"F"	12	Not Applicable	Not Applicable
+	"2021"	"2021"	"Jan., 2021"	"2021/01"	"More than one race"	"M"	"Male"	"M"	28	Not Applicable	Not Applicable
+	"2021"	"2021"	"Jan., 2021"	"2021/01"	"Not Available"	"999"	"Female"	"F"	0	Not Applicable	Not Applicable
+	"2021"	"2021"	"Jan., 2021"	"2021/01"	"Not Available"	"999"	"Male"	"M"	0	Not Applicable	Not Applicable
+	"2021"	"2021"	"Feb., 2021"	"2021/02"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	69	Not Applicable	Not Applicable
+	"2021"	"2021"	"Feb., 2021"	"2021/02"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	103	Not Applicable	Not Applicable
+	"2021"	"2021"	"Feb., 2021"	"2021/02"	"Asian"	"A"	"Female"	"F"	Suppressed	Not Applicable	Not Applicable
+	"2021"	"2021"	"Feb., 2021"	"2021/02"	"Asian"	"A"	"Male"	"M"	51	Not Applicable	Not Applicable
+	"2021"	"2021"	"Feb., 2021"	"2021/02"	"Black or African American"	"2054-5"	"Female"	"F"	125	Not Applicable	Not Applicable
+	"2021"	"2021"	"Feb., 2021"	"2021/02"	"Black or African American"	"2054-5"	"Male"	"M"	274	Not Applicable	Not Applicable
+	"2021"	"2021"	"Feb., 2021"	"2021/02"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Female"	"F"	Suppressed	Not Applicable	Not Applicable
+	"2021"	"2021"	"Feb., 2021"	"2021/02"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Male"	"M"	Suppressed	Not Applicable	Not Applicable
+	"2021"	"2021"	"Feb., 2021"	"2021/02"	"White"	"2106-3"	"Female"	"F"	895	Not Applicable	Not Applicable
+	"2021"	"2021"	"Feb., 2021"	"2021/02"	"White"	"2106-3"	"Male"	"M"	2096	Not Applicable	Not Applicable
+	"2021"	"2021"	"Feb., 2021"	"2021/02"	"More than one race"	"M"	"Female"	"F"	Suppressed	Not Applicable	Not Applicable
+	"2021"	"2021"	"Feb., 2021"	"2021/02"	"More than one race"	"M"	"Male"	"M"	19	Not Applicable	Not Applicable
+	"2021"	"2021"	"Feb., 2021"	"2021/02"	"Not Available"	"999"	"Female"	"F"	0	Not Applicable	Not Applicable
+	"2021"	"2021"	"Feb., 2021"	"2021/02"	"Not Available"	"999"	"Male"	"M"	0	Not Applicable	Not Applicable
+	"2021"	"2021"	"Mar., 2021"	"2021/03"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	75	Not Applicable	Not Applicable
+	"2021"	"2021"	"Mar., 2021"	"2021/03"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	119	Not Applicable	Not Applicable
+	"2021"	"2021"	"Mar., 2021"	"2021/03"	"Asian"	"A"	"Female"	"F"	11	Not Applicable	Not Applicable
+	"2021"	"2021"	"Mar., 2021"	"2021/03"	"Asian"	"A"	"Male"	"M"	44	Not Applicable	Not Applicable
+	"2021"	"2021"	"Mar., 2021"	"2021/03"	"Black or African American"	"2054-5"	"Female"	"F"	146	Not Applicable	Not Applicable
+	"2021"	"2021"	"Mar., 2021"	"2021/03"	"Black or African American"	"2054-5"	"Male"	"M"	269	Not Applicable	Not Applicable
+	"2021"	"2021"	"Mar., 2021"	"2021/03"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Female"	"F"	0	Not Applicable	Not Applicable
+	"2021"	"2021"	"Mar., 2021"	"2021/03"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Male"	"M"	Suppressed	Not Applicable	Not Applicable
+	"2021"	"2021"	"Mar., 2021"	"2021/03"	"White"	"2106-3"	"Female"	"F"	930	Not Applicable	Not Applicable
+	"2021"	"2021"	"Mar., 2021"	"2021/03"	"White"	"2106-3"	"Male"	"M"	2233	Not Applicable	Not Applicable
+	"2021"	"2021"	"Mar., 2021"	"2021/03"	"More than one race"	"M"	"Female"	"F"	10	Not Applicable	Not Applicable
+	"2021"	"2021"	"Mar., 2021"	"2021/03"	"More than one race"	"M"	"Male"	"M"	22	Not Applicable	Not Applicable
+	"2021"	"2021"	"Mar., 2021"	"2021/03"	"Not Available"	"999"	"Female"	"F"	0	Not Applicable	Not Applicable
+	"2021"	"2021"	"Mar., 2021"	"2021/03"	"Not Available"	"999"	"Male"	"M"	0	Not Applicable	Not Applicable
+	"2021"	"2021"	"Apr., 2021"	"2021/04"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	64	Not Applicable	Not Applicable
+	"2021"	"2021"	"Apr., 2021"	"2021/04"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	86	Not Applicable	Not Applicable
+	"2021"	"2021"	"Apr., 2021"	"2021/04"	"Asian"	"A"	"Female"	"F"	12	Not Applicable	Not Applicable
+	"2021"	"2021"	"Apr., 2021"	"2021/04"	"Asian"	"A"	"Male"	"M"	45	Not Applicable	Not Applicable
+	"2021"	"2021"	"Apr., 2021"	"2021/04"	"Black or African American"	"2054-5"	"Female"	"F"	113	Not Applicable	Not Applicable
+	"2021"	"2021"	"Apr., 2021"	"2021/04"	"Black or African American"	"2054-5"	"Male"	"M"	301	Not Applicable	Not Applicable
+	"2021"	"2021"	"Apr., 2021"	"2021/04"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Female"	"F"	0	Not Applicable	Not Applicable
+	"2021"	"2021"	"Apr., 2021"	"2021/04"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Male"	"M"	Suppressed	Not Applicable	Not Applicable
+	"2021"	"2021"	"Apr., 2021"	"2021/04"	"White"	"2106-3"	"Female"	"F"	890	Not Applicable	Not Applicable
+	"2021"	"2021"	"Apr., 2021"	"2021/04"	"White"	"2106-3"	"Male"	"M"	2131	Not Applicable	Not Applicable
+	"2021"	"2021"	"Apr., 2021"	"2021/04"	"More than one race"	"M"	"Female"	"F"	11	Not Applicable	Not Applicable
+	"2021"	"2021"	"Apr., 2021"	"2021/04"	"More than one race"	"M"	"Male"	"M"	20	Not Applicable	Not Applicable
+	"2021"	"2021"	"Apr., 2021"	"2021/04"	"Not Available"	"999"	"Female"	"F"	0	Not Applicable	Not Applicable
+	"2021"	"2021"	"Apr., 2021"	"2021/04"	"Not Available"	"999"	"Male"	"M"	0	Not Applicable	Not Applicable
+	"2021"	"2021"	"May, 2021"	"2021/05"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	76	Not Applicable	Not Applicable
+	"2021"	"2021"	"May, 2021"	"2021/05"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	110	Not Applicable	Not Applicable
+	"2021"	"2021"	"May, 2021"	"2021/05"	"Asian"	"A"	"Female"	"F"	15	Not Applicable	Not Applicable
+	"2021"	"2021"	"May, 2021"	"2021/05"	"Asian"	"A"	"Male"	"M"	38	Not Applicable	Not Applicable
+	"2021"	"2021"	"May, 2021"	"2021/05"	"Black or African American"	"2054-5"	"Female"	"F"	133	Not Applicable	Not Applicable
+	"2021"	"2021"	"May, 2021"	"2021/05"	"Black or African American"	"2054-5"	"Male"	"M"	267	Not Applicable	Not Applicable
+	"2021"	"2021"	"May, 2021"	"2021/05"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Female"	"F"	0	Not Applicable	Not Applicable
+	"2021"	"2021"	"May, 2021"	"2021/05"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Male"	"M"	Suppressed	Not Applicable	Not Applicable
+	"2021"	"2021"	"May, 2021"	"2021/05"	"White"	"2106-3"	"Female"	"F"	900	Not Applicable	Not Applicable
+	"2021"	"2021"	"May, 2021"	"2021/05"	"White"	"2106-3"	"Male"	"M"	2189	Not Applicable	Not Applicable
+	"2021"	"2021"	"May, 2021"	"2021/05"	"More than one race"	"M"	"Female"	"F"	19	Not Applicable	Not Applicable
+	"2021"	"2021"	"May, 2021"	"2021/05"	"More than one race"	"M"	"Male"	"M"	26	Not Applicable	Not Applicable
+	"2021"	"2021"	"May, 2021"	"2021/05"	"Not Available"	"999"	"Female"	"F"	0	Not Applicable	Not Applicable
+	"2021"	"2021"	"May, 2021"	"2021/05"	"Not Available"	"999"	"Male"	"M"	0	Not Applicable	Not Applicable
+	"2021"	"2021"	"Jun., 2021"	"2021/06"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	73	Not Applicable	Not Applicable
+	"2021"	"2021"	"Jun., 2021"	"2021/06"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	115	Not Applicable	Not Applicable
+	"2021"	"2021"	"Jun., 2021"	"2021/06"	"Asian"	"A"	"Female"	"F"	Suppressed	Not Applicable	Not Applicable
+	"2021"	"2021"	"Jun., 2021"	"2021/06"	"Asian"	"A"	"Male"	"M"	41	Not Applicable	Not Applicable
+	"2021"	"2021"	"Jun., 2021"	"2021/06"	"Black or African American"	"2054-5"	"Female"	"F"	120	Not Applicable	Not Applicable
+	"2021"	"2021"	"Jun., 2021"	"2021/06"	"Black or African American"	"2054-5"	"Male"	"M"	293	Not Applicable	Not Applicable
+	"2021"	"2021"	"Jun., 2021"	"2021/06"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Female"	"F"	Suppressed	Not Applicable	Not Applicable
+	"2021"	"2021"	"Jun., 2021"	"2021/06"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Male"	"M"	Suppressed	Not Applicable	Not Applicable
+	"2021"	"2021"	"Jun., 2021"	"2021/06"	"White"	"2106-3"	"Female"	"F"	956	Not Applicable	Not Applicable
+	"2021"	"2021"	"Jun., 2021"	"2021/06"	"White"	"2106-3"	"Male"	"M"	2173	Not Applicable	Not Applicable
+	"2021"	"2021"	"Jun., 2021"	"2021/06"	"More than one race"	"M"	"Female"	"F"	Suppressed	Not Applicable	Not Applicable
+	"2021"	"2021"	"Jun., 2021"	"2021/06"	"More than one race"	"M"	"Male"	"M"	20	Not Applicable	Not Applicable
+	"2021"	"2021"	"Jun., 2021"	"2021/06"	"Not Available"	"999"	"Female"	"F"	0	Not Applicable	Not Applicable
+	"2021"	"2021"	"Jun., 2021"	"2021/06"	"Not Available"	"999"	"Male"	"M"	0	Not Applicable	Not Applicable
+	"2021"	"2021"	"Jul., 2021"	"2021/07"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	73	Not Applicable	Not Applicable
+	"2021"	"2021"	"Jul., 2021"	"2021/07"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	125	Not Applicable	Not Applicable
+	"2021"	"2021"	"Jul., 2021"	"2021/07"	"Asian"	"A"	"Female"	"F"	13	Not Applicable	Not Applicable
+	"2021"	"2021"	"Jul., 2021"	"2021/07"	"Asian"	"A"	"Male"	"M"	39	Not Applicable	Not Applicable
+	"2021"	"2021"	"Jul., 2021"	"2021/07"	"Black or African American"	"2054-5"	"Female"	"F"	139	Not Applicable	Not Applicable
+	"2021"	"2021"	"Jul., 2021"	"2021/07"	"Black or African American"	"2054-5"	"Male"	"M"	293	Not Applicable	Not Applicable
+	"2021"	"2021"	"Jul., 2021"	"2021/07"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Female"	"F"	0	Not Applicable	Not Applicable
+	"2021"	"2021"	"Jul., 2021"	"2021/07"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Male"	"M"	Suppressed	Not Applicable	Not Applicable
+	"2021"	"2021"	"Jul., 2021"	"2021/07"	"White"	"2106-3"	"Female"	"F"	950	Not Applicable	Not Applicable
+	"2021"	"2021"	"Jul., 2021"	"2021/07"	"White"	"2106-3"	"Male"	"M"	2218	Not Applicable	Not Applicable
+	"2021"	"2021"	"Jul., 2021"	"2021/07"	"More than one race"	"M"	"Female"	"F"	Suppressed	Not Applicable	Not Applicable
+	"2021"	"2021"	"Jul., 2021"	"2021/07"	"More than one race"	"M"	"Male"	"M"	23	Not Applicable	Not Applicable
+	"2021"	"2021"	"Jul., 2021"	"2021/07"	"Not Available"	"999"	"Female"	"F"	0	Not Applicable	Not Applicable
+	"2021"	"2021"	"Jul., 2021"	"2021/07"	"Not Available"	"999"	"Male"	"M"	0	Not Applicable	Not Applicable
+	"2021"	"2021"	"Aug., 2021"	"2021/08"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	58	Not Applicable	Not Applicable
+	"2021"	"2021"	"Aug., 2021"	"2021/08"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	120	Not Applicable	Not Applicable
+	"2021"	"2021"	"Aug., 2021"	"2021/08"	"Asian"	"A"	"Female"	"F"	Suppressed	Not Applicable	Not Applicable
+	"2021"	"2021"	"Aug., 2021"	"2021/08"	"Asian"	"A"	"Male"	"M"	39	Not Applicable	Not Applicable
+	"2021"	"2021"	"Aug., 2021"	"2021/08"	"Black or African American"	"2054-5"	"Female"	"F"	142	Not Applicable	Not Applicable
+	"2021"	"2021"	"Aug., 2021"	"2021/08"	"Black or African American"	"2054-5"	"Male"	"M"	293	Not Applicable	Not Applicable
+	"2021"	"2021"	"Aug., 2021"	"2021/08"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Female"	"F"	0	Not Applicable	Not Applicable
+	"2021"	"2021"	"Aug., 2021"	"2021/08"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Male"	"M"	Suppressed	Not Applicable	Not Applicable
+	"2021"	"2021"	"Aug., 2021"	"2021/08"	"White"	"2106-3"	"Female"	"F"	998	Not Applicable	Not Applicable
+	"2021"	"2021"	"Aug., 2021"	"2021/08"	"White"	"2106-3"	"Male"	"M"	2223	Not Applicable	Not Applicable
+	"2021"	"2021"	"Aug., 2021"	"2021/08"	"More than one race"	"M"	"Female"	"F"	Suppressed	Not Applicable	Not Applicable
+	"2021"	"2021"	"Aug., 2021"	"2021/08"	"More than one race"	"M"	"Male"	"M"	29	Not Applicable	Not Applicable
+	"2021"	"2021"	"Aug., 2021"	"2021/08"	"Not Available"	"999"	"Female"	"F"	0	Not Applicable	Not Applicable
+	"2021"	"2021"	"Aug., 2021"	"2021/08"	"Not Available"	"999"	"Male"	"M"	0	Not Applicable	Not Applicable
+	"2021"	"2021"	"Sep., 2021"	"2021/09"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	74	Not Applicable	Not Applicable
+	"2021"	"2021"	"Sep., 2021"	"2021/09"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	121	Not Applicable	Not Applicable
+	"2021"	"2021"	"Sep., 2021"	"2021/09"	"Asian"	"A"	"Female"	"F"	Suppressed	Not Applicable	Not Applicable
+	"2021"	"2021"	"Sep., 2021"	"2021/09"	"Asian"	"A"	"Male"	"M"	39	Not Applicable	Not Applicable
+	"2021"	"2021"	"Sep., 2021"	"2021/09"	"Black or African American"	"2054-5"	"Female"	"F"	126	Not Applicable	Not Applicable
+	"2021"	"2021"	"Sep., 2021"	"2021/09"	"Black or African American"	"2054-5"	"Male"	"M"	298	Not Applicable	Not Applicable
+	"2021"	"2021"	"Sep., 2021"	"2021/09"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Female"	"F"	Suppressed	Not Applicable	Not Applicable
+	"2021"	"2021"	"Sep., 2021"	"2021/09"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Male"	"M"	Suppressed	Not Applicable	Not Applicable
+	"2021"	"2021"	"Sep., 2021"	"2021/09"	"White"	"2106-3"	"Female"	"F"	967	Not Applicable	Not Applicable
+	"2021"	"2021"	"Sep., 2021"	"2021/09"	"White"	"2106-3"	"Male"	"M"	2305	Not Applicable	Not Applicable
+	"2021"	"2021"	"Sep., 2021"	"2021/09"	"More than one race"	"M"	"Female"	"F"	11	Not Applicable	Not Applicable
+	"2021"	"2021"	"Sep., 2021"	"2021/09"	"More than one race"	"M"	"Male"	"M"	25	Not Applicable	Not Applicable
+	"2021"	"2021"	"Sep., 2021"	"2021/09"	"Not Available"	"999"	"Female"	"F"	0	Not Applicable	Not Applicable
+	"2021"	"2021"	"Sep., 2021"	"2021/09"	"Not Available"	"999"	"Male"	"M"	0	Not Applicable	Not Applicable
+	"2021"	"2021"	"Oct., 2021"	"2021/10"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	78	Not Applicable	Not Applicable
+	"2021"	"2021"	"Oct., 2021"	"2021/10"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	118	Not Applicable	Not Applicable
+	"2021"	"2021"	"Oct., 2021"	"2021/10"	"Asian"	"A"	"Female"	"F"	14	Not Applicable	Not Applicable
+	"2021"	"2021"	"Oct., 2021"	"2021/10"	"Asian"	"A"	"Male"	"M"	34	Not Applicable	Not Applicable
+	"2021"	"2021"	"Oct., 2021"	"2021/10"	"Black or African American"	"2054-5"	"Female"	"F"	133	Not Applicable	Not Applicable
+	"2021"	"2021"	"Oct., 2021"	"2021/10"	"Black or African American"	"2054-5"	"Male"	"M"	280	Not Applicable	Not Applicable
+	"2021"	"2021"	"Oct., 2021"	"2021/10"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Female"	"F"	Suppressed	Not Applicable	Not Applicable
+	"2021"	"2021"	"Oct., 2021"	"2021/10"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Male"	"M"	Suppressed	Not Applicable	Not Applicable
+	"2021"	"2021"	"Oct., 2021"	"2021/10"	"White"	"2106-3"	"Female"	"F"	1032	Not Applicable	Not Applicable
+	"2021"	"2021"	"Oct., 2021"	"2021/10"	"White"	"2106-3"	"Male"	"M"	2314	Not Applicable	Not Applicable
+	"2021"	"2021"	"Oct., 2021"	"2021/10"	"More than one race"	"M"	"Female"	"F"	18	Not Applicable	Not Applicable
+	"2021"	"2021"	"Oct., 2021"	"2021/10"	"More than one race"	"M"	"Male"	"M"	24	Not Applicable	Not Applicable
+	"2021"	"2021"	"Oct., 2021"	"2021/10"	"Not Available"	"999"	"Female"	"F"	0	Not Applicable	Not Applicable
+	"2021"	"2021"	"Oct., 2021"	"2021/10"	"Not Available"	"999"	"Male"	"M"	0	Not Applicable	Not Applicable
+	"2021"	"2021"	"Nov., 2021"	"2021/11"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	73	Not Applicable	Not Applicable
+	"2021"	"2021"	"Nov., 2021"	"2021/11"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	106	Not Applicable	Not Applicable
+	"2021"	"2021"	"Nov., 2021"	"2021/11"	"Asian"	"A"	"Female"	"F"	15	Not Applicable	Not Applicable
+	"2021"	"2021"	"Nov., 2021"	"2021/11"	"Asian"	"A"	"Male"	"M"	42	Not Applicable	Not Applicable
+	"2021"	"2021"	"Nov., 2021"	"2021/11"	"Black or African American"	"2054-5"	"Female"	"F"	127	Not Applicable	Not Applicable
+	"2021"	"2021"	"Nov., 2021"	"2021/11"	"Black or African American"	"2054-5"	"Male"	"M"	288	Not Applicable	Not Applicable
+	"2021"	"2021"	"Nov., 2021"	"2021/11"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Female"	"F"	Suppressed	Not Applicable	Not Applicable
+	"2021"	"2021"	"Nov., 2021"	"2021/11"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Male"	"M"	Suppressed	Not Applicable	Not Applicable
+	"2021"	"2021"	"Nov., 2021"	"2021/11"	"White"	"2106-3"	"Female"	"F"	915	Not Applicable	Not Applicable
+	"2021"	"2021"	"Nov., 2021"	"2021/11"	"White"	"2106-3"	"Male"	"M"	2205	Not Applicable	Not Applicable
+	"2021"	"2021"	"Nov., 2021"	"2021/11"	"More than one race"	"M"	"Female"	"F"	11	Not Applicable	Not Applicable
+	"2021"	"2021"	"Nov., 2021"	"2021/11"	"More than one race"	"M"	"Male"	"M"	21	Not Applicable	Not Applicable
+	"2021"	"2021"	"Nov., 2021"	"2021/11"	"Not Available"	"999"	"Female"	"F"	0	Not Applicable	Not Applicable
+	"2021"	"2021"	"Nov., 2021"	"2021/11"	"Not Available"	"999"	"Male"	"M"	0	Not Applicable	Not Applicable
+	"2021"	"2021"	"Dec., 2021"	"2021/12"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	69	Not Applicable	Not Applicable
+	"2021"	"2021"	"Dec., 2021"	"2021/12"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	115	Not Applicable	Not Applicable
+	"2021"	"2021"	"Dec., 2021"	"2021/12"	"Asian"	"A"	"Female"	"F"	13	Not Applicable	Not Applicable
+	"2021"	"2021"	"Dec., 2021"	"2021/12"	"Asian"	"A"	"Male"	"M"	42	Not Applicable	Not Applicable
+	"2021"	"2021"	"Dec., 2021"	"2021/12"	"Black or African American"	"2054-5"	"Female"	"F"	123	Not Applicable	Not Applicable
+	"2021"	"2021"	"Dec., 2021"	"2021/12"	"Black or African American"	"2054-5"	"Male"	"M"	323	Not Applicable	Not Applicable
+	"2021"	"2021"	"Dec., 2021"	"2021/12"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Female"	"F"	Suppressed	Not Applicable	Not Applicable
+	"2021"	"2021"	"Dec., 2021"	"2021/12"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Male"	"M"	Suppressed	Not Applicable	Not Applicable
+	"2021"	"2021"	"Dec., 2021"	"2021/12"	"White"	"2106-3"	"Female"	"F"	994	Not Applicable	Not Applicable
+	"2021"	"2021"	"Dec., 2021"	"2021/12"	"White"	"2106-3"	"Male"	"M"	2286	Not Applicable	Not Applicable
+	"2021"	"2021"	"Dec., 2021"	"2021/12"	"More than one race"	"M"	"Female"	"F"	14	Not Applicable	Not Applicable
+	"2021"	"2021"	"Dec., 2021"	"2021/12"	"More than one race"	"M"	"Male"	"M"	27	Not Applicable	Not Applicable
+	"2021"	"2021"	"Dec., 2021"	"2021/12"	"Not Available"	"999"	"Female"	"F"	0	Not Applicable	Not Applicable
+	"2021"	"2021"	"Dec., 2021"	"2021/12"	"Not Available"	"999"	"Male"	"M"	0	Not Applicable	Not Applicable
+	"2022"	"2022"	"Jan., 2022"	"2022/01"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	80	Not Applicable	Not Applicable
+	"2022"	"2022"	"Jan., 2022"	"2022/01"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	124	Not Applicable	Not Applicable
+	"2022"	"2022"	"Jan., 2022"	"2022/01"	"Asian"	"A"	"Female"	"F"	16	Not Applicable	Not Applicable
+	"2022"	"2022"	"Jan., 2022"	"2022/01"	"Asian"	"A"	"Male"	"M"	57	Not Applicable	Not Applicable
+	"2022"	"2022"	"Jan., 2022"	"2022/01"	"Black or African American"	"2054-5"	"Female"	"F"	145	Not Applicable	Not Applicable
+	"2022"	"2022"	"Jan., 2022"	"2022/01"	"Black or African American"	"2054-5"	"Male"	"M"	319	Not Applicable	Not Applicable
+	"2022"	"2022"	"Jan., 2022"	"2022/01"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Female"	"F"	Suppressed	Not Applicable	Not Applicable
+	"2022"	"2022"	"Jan., 2022"	"2022/01"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Male"	"M"	Suppressed	Not Applicable	Not Applicable
+	"2022"	"2022"	"Jan., 2022"	"2022/01"	"White"	"2106-3"	"Female"	"F"	978	Not Applicable	Not Applicable
+	"2022"	"2022"	"Jan., 2022"	"2022/01"	"White"	"2106-3"	"Male"	"M"	2437	Not Applicable	Not Applicable
+	"2022"	"2022"	"Jan., 2022"	"2022/01"	"More than one race"	"M"	"Female"	"F"	20	Not Applicable	Not Applicable
+	"2022"	"2022"	"Jan., 2022"	"2022/01"	"More than one race"	"M"	"Male"	"M"	34	Not Applicable	Not Applicable
+	"2022"	"2022"	"Jan., 2022"	"2022/01"	"Not Available"	"999"	"Female"	"F"	0	Not Applicable	Not Applicable
+	"2022"	"2022"	"Jan., 2022"	"2022/01"	"Not Available"	"999"	"Male"	"M"	0	Not Applicable	Not Applicable
+	"2022"	"2022"	"Feb., 2022"	"2022/02"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	51	Not Applicable	Not Applicable
+	"2022"	"2022"	"Feb., 2022"	"2022/02"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	92	Not Applicable	Not Applicable
+	"2022"	"2022"	"Feb., 2022"	"2022/02"	"Asian"	"A"	"Female"	"F"	Suppressed	Not Applicable	Not Applicable
+	"2022"	"2022"	"Feb., 2022"	"2022/02"	"Asian"	"A"	"Male"	"M"	58	Not Applicable	Not Applicable
+	"2022"	"2022"	"Feb., 2022"	"2022/02"	"Black or African American"	"2054-5"	"Female"	"F"	89	Not Applicable	Not Applicable
+	"2022"	"2022"	"Feb., 2022"	"2022/02"	"Black or African American"	"2054-5"	"Male"	"M"	254	Not Applicable	Not Applicable
+	"2022"	"2022"	"Feb., 2022"	"2022/02"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Female"	"F"	0	Not Applicable	Not Applicable
+	"2022"	"2022"	"Feb., 2022"	"2022/02"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Male"	"M"	Suppressed	Not Applicable	Not Applicable
+	"2022"	"2022"	"Feb., 2022"	"2022/02"	"White"	"2106-3"	"Female"	"F"	832	Not Applicable	Not Applicable
+	"2022"	"2022"	"Feb., 2022"	"2022/02"	"White"	"2106-3"	"Male"	"M"	2104	Not Applicable	Not Applicable
+	"2022"	"2022"	"Feb., 2022"	"2022/02"	"More than one race"	"M"	"Female"	"F"	14	Not Applicable	Not Applicable
+	"2022"	"2022"	"Feb., 2022"	"2022/02"	"More than one race"	"M"	"Male"	"M"	23	Not Applicable	Not Applicable
+	"2022"	"2022"	"Feb., 2022"	"2022/02"	"Not Available"	"999"	"Female"	"F"	0	Not Applicable	Not Applicable
+	"2022"	"2022"	"Feb., 2022"	"2022/02"	"Not Available"	"999"	"Male"	"M"	0	Not Applicable	Not Applicable
+	"2022"	"2022"	"Mar., 2022"	"2022/03"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	61	Not Applicable	Not Applicable
+	"2022"	"2022"	"Mar., 2022"	"2022/03"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	90	Not Applicable	Not Applicable
+	"2022"	"2022"	"Mar., 2022"	"2022/03"	"Asian"	"A"	"Female"	"F"	Suppressed	Not Applicable	Not Applicable
+	"2022"	"2022"	"Mar., 2022"	"2022/03"	"Asian"	"A"	"Male"	"M"	42	Not Applicable	Not Applicable
+	"2022"	"2022"	"Mar., 2022"	"2022/03"	"Black or African American"	"2054-5"	"Female"	"F"	91	Not Applicable	Not Applicable
+	"2022"	"2022"	"Mar., 2022"	"2022/03"	"Black or African American"	"2054-5"	"Male"	"M"	256	Not Applicable	Not Applicable
+	"2022"	"2022"	"Mar., 2022"	"2022/03"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Female"	"F"	Suppressed	Not Applicable	Not Applicable
+	"2022"	"2022"	"Mar., 2022"	"2022/03"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Male"	"M"	Suppressed	Not Applicable	Not Applicable
+	"2022"	"2022"	"Mar., 2022"	"2022/03"	"White"	"2106-3"	"Female"	"F"	911	Not Applicable	Not Applicable
+	"2022"	"2022"	"Mar., 2022"	"2022/03"	"White"	"2106-3"	"Male"	"M"	2090	Not Applicable	Not Applicable
+	"2022"	"2022"	"Mar., 2022"	"2022/03"	"More than one race"	"M"	"Female"	"F"	11	Not Applicable	Not Applicable
+	"2022"	"2022"	"Mar., 2022"	"2022/03"	"More than one race"	"M"	"Male"	"M"	12	Not Applicable	Not Applicable
+	"2022"	"2022"	"Mar., 2022"	"2022/03"	"Not Available"	"999"	"Female"	"F"	0	Not Applicable	Not Applicable
+	"2022"	"2022"	"Mar., 2022"	"2022/03"	"Not Available"	"999"	"Male"	"M"	0	Not Applicable	Not Applicable
+	"2022"	"2022"	"Apr., 2022"	"2022/04"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	62	Not Applicable	Not Applicable
+	"2022"	"2022"	"Apr., 2022"	"2022/04"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	98	Not Applicable	Not Applicable
+	"2022"	"2022"	"Apr., 2022"	"2022/04"	"Asian"	"A"	"Female"	"F"	10	Not Applicable	Not Applicable
+	"2022"	"2022"	"Apr., 2022"	"2022/04"	"Asian"	"A"	"Male"	"M"	37	Not Applicable	Not Applicable
+	"2022"	"2022"	"Apr., 2022"	"2022/04"	"Black or African American"	"2054-5"	"Female"	"F"	102	Not Applicable	Not Applicable
+	"2022"	"2022"	"Apr., 2022"	"2022/04"	"Black or African American"	"2054-5"	"Male"	"M"	241	Not Applicable	Not Applicable
+	"2022"	"2022"	"Apr., 2022"	"2022/04"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Female"	"F"	Suppressed	Not Applicable	Not Applicable
+	"2022"	"2022"	"Apr., 2022"	"2022/04"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Male"	"M"	Suppressed	Not Applicable	Not Applicable
+	"2022"	"2022"	"Apr., 2022"	"2022/04"	"White"	"2106-3"	"Female"	"F"	911	Not Applicable	Not Applicable
+	"2022"	"2022"	"Apr., 2022"	"2022/04"	"White"	"2106-3"	"Male"	"M"	2007	Not Applicable	Not Applicable
+	"2022"	"2022"	"Apr., 2022"	"2022/04"	"More than one race"	"M"	"Female"	"F"	12	Not Applicable	Not Applicable
+	"2022"	"2022"	"Apr., 2022"	"2022/04"	"More than one race"	"M"	"Male"	"M"	16	Not Applicable	Not Applicable
+	"2022"	"2022"	"Apr., 2022"	"2022/04"	"Not Available"	"999"	"Female"	"F"	0	Not Applicable	Not Applicable
+	"2022"	"2022"	"Apr., 2022"	"2022/04"	"Not Available"	"999"	"Male"	"M"	0	Not Applicable	Not Applicable
+	"2022"	"2022"	"May, 2022"	"2022/05"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	60	Not Applicable	Not Applicable
+	"2022"	"2022"	"May, 2022"	"2022/05"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	111	Not Applicable	Not Applicable
+	"2022"	"2022"	"May, 2022"	"2022/05"	"Asian"	"A"	"Female"	"F"	Suppressed	Not Applicable	Not Applicable
+	"2022"	"2022"	"May, 2022"	"2022/05"	"Asian"	"A"	"Male"	"M"	38	Not Applicable	Not Applicable
+	"2022"	"2022"	"May, 2022"	"2022/05"	"Black or African American"	"2054-5"	"Female"	"F"	114	Not Applicable	Not Applicable
+	"2022"	"2022"	"May, 2022"	"2022/05"	"Black or African American"	"2054-5"	"Male"	"M"	243	Not Applicable	Not Applicable
+	"2022"	"2022"	"May, 2022"	"2022/05"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Female"	"F"	Suppressed	Not Applicable	Not Applicable
+	"2022"	"2022"	"May, 2022"	"2022/05"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Male"	"M"	Suppressed	Not Applicable	Not Applicable
+	"2022"	"2022"	"May, 2022"	"2022/05"	"White"	"2106-3"	"Female"	"F"	880	Not Applicable	Not Applicable
+	"2022"	"2022"	"May, 2022"	"2022/05"	"White"	"2106-3"	"Male"	"M"	2039	Not Applicable	Not Applicable
+	"2022"	"2022"	"May, 2022"	"2022/05"	"More than one race"	"M"	"Female"	"F"	10	Not Applicable	Not Applicable
+	"2022"	"2022"	"May, 2022"	"2022/05"	"More than one race"	"M"	"Male"	"M"	24	Not Applicable	Not Applicable
+	"2022"	"2022"	"May, 2022"	"2022/05"	"Not Available"	"999"	"Female"	"F"	0	Not Applicable	Not Applicable
+	"2022"	"2022"	"May, 2022"	"2022/05"	"Not Available"	"999"	"Male"	"M"	0	Not Applicable	Not Applicable
+	"2022"	"2022"	"Jun., 2022"	"2022/06"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	66	Not Applicable	Not Applicable
+	"2022"	"2022"	"Jun., 2022"	"2022/06"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	99	Not Applicable	Not Applicable
+	"2022"	"2022"	"Jun., 2022"	"2022/06"	"Asian"	"A"	"Female"	"F"	Suppressed	Not Applicable	Not Applicable
+	"2022"	"2022"	"Jun., 2022"	"2022/06"	"Asian"	"A"	"Male"	"M"	36	Not Applicable	Not Applicable
+	"2022"	"2022"	"Jun., 2022"	"2022/06"	"Black or African American"	"2054-5"	"Female"	"F"	99	Not Applicable	Not Applicable
+	"2022"	"2022"	"Jun., 2022"	"2022/06"	"Black or African American"	"2054-5"	"Male"	"M"	236	Not Applicable	Not Applicable
+	"2022"	"2022"	"Jun., 2022"	"2022/06"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Female"	"F"	0	Not Applicable	Not Applicable
+	"2022"	"2022"	"Jun., 2022"	"2022/06"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Male"	"M"	Suppressed	Not Applicable	Not Applicable
+	"2022"	"2022"	"Jun., 2022"	"2022/06"	"White"	"2106-3"	"Female"	"F"	900	Not Applicable	Not Applicable
+	"2022"	"2022"	"Jun., 2022"	"2022/06"	"White"	"2106-3"	"Male"	"M"	2023	Not Applicable	Not Applicable
+	"2022"	"2022"	"Jun., 2022"	"2022/06"	"More than one race"	"M"	"Female"	"F"	Suppressed	Not Applicable	Not Applicable
+	"2022"	"2022"	"Jun., 2022"	"2022/06"	"More than one race"	"M"	"Male"	"M"	15	Not Applicable	Not Applicable
+	"2022"	"2022"	"Jun., 2022"	"2022/06"	"Not Available"	"999"	"Female"	"F"	0	Not Applicable	Not Applicable
+	"2022"	"2022"	"Jun., 2022"	"2022/06"	"Not Available"	"999"	"Male"	"M"	0	Not Applicable	Not Applicable
+	"2022"	"2022"	"Jul., 2022"	"2022/07"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	66	Not Applicable	Not Applicable
+	"2022"	"2022"	"Jul., 2022"	"2022/07"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	92	Not Applicable	Not Applicable
+	"2022"	"2022"	"Jul., 2022"	"2022/07"	"Asian"	"A"	"Female"	"F"	10	Not Applicable	Not Applicable
+	"2022"	"2022"	"Jul., 2022"	"2022/07"	"Asian"	"A"	"Male"	"M"	39	Not Applicable	Not Applicable
+	"2022"	"2022"	"Jul., 2022"	"2022/07"	"Black or African American"	"2054-5"	"Female"	"F"	115	Not Applicable	Not Applicable
+	"2022"	"2022"	"Jul., 2022"	"2022/07"	"Black or African American"	"2054-5"	"Male"	"M"	254	Not Applicable	Not Applicable
+	"2022"	"2022"	"Jul., 2022"	"2022/07"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Female"	"F"	Suppressed	Not Applicable	Not Applicable
+	"2022"	"2022"	"Jul., 2022"	"2022/07"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Male"	"M"	0	Not Applicable	Not Applicable
+	"2022"	"2022"	"Jul., 2022"	"2022/07"	"White"	"2106-3"	"Female"	"F"	858	Not Applicable	Not Applicable
+	"2022"	"2022"	"Jul., 2022"	"2022/07"	"White"	"2106-3"	"Male"	"M"	2011	Not Applicable	Not Applicable
+	"2022"	"2022"	"Jul., 2022"	"2022/07"	"More than one race"	"M"	"Female"	"F"	16	Not Applicable	Not Applicable
+	"2022"	"2022"	"Jul., 2022"	"2022/07"	"More than one race"	"M"	"Male"	"M"	26	Not Applicable	Not Applicable
+	"2022"	"2022"	"Jul., 2022"	"2022/07"	"Not Available"	"999"	"Female"	"F"	0	Not Applicable	Not Applicable
+	"2022"	"2022"	"Jul., 2022"	"2022/07"	"Not Available"	"999"	"Male"	"M"	0	Not Applicable	Not Applicable
+	"2022"	"2022"	"Aug., 2022"	"2022/08"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	50	Not Applicable	Not Applicable
+	"2022"	"2022"	"Aug., 2022"	"2022/08"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	79	Not Applicable	Not Applicable
+	"2022"	"2022"	"Aug., 2022"	"2022/08"	"Asian"	"A"	"Female"	"F"	10	Not Applicable	Not Applicable
+	"2022"	"2022"	"Aug., 2022"	"2022/08"	"Asian"	"A"	"Male"	"M"	44	Not Applicable	Not Applicable
+	"2022"	"2022"	"Aug., 2022"	"2022/08"	"Black or African American"	"2054-5"	"Female"	"F"	112	Not Applicable	Not Applicable
+	"2022"	"2022"	"Aug., 2022"	"2022/08"	"Black or African American"	"2054-5"	"Male"	"M"	238	Not Applicable	Not Applicable
+	"2022"	"2022"	"Aug., 2022"	"2022/08"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Female"	"F"	0	Not Applicable	Not Applicable
+	"2022"	"2022"	"Aug., 2022"	"2022/08"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Male"	"M"	Suppressed	Not Applicable	Not Applicable
+	"2022"	"2022"	"Aug., 2022"	"2022/08"	"White"	"2106-3"	"Female"	"F"	988	Not Applicable	Not Applicable
+	"2022"	"2022"	"Aug., 2022"	"2022/08"	"White"	"2106-3"	"Male"	"M"	2022	Not Applicable	Not Applicable
+	"2022"	"2022"	"Aug., 2022"	"2022/08"	"More than one race"	"M"	"Female"	"F"	10	Not Applicable	Not Applicable
+	"2022"	"2022"	"Aug., 2022"	"2022/08"	"More than one race"	"M"	"Male"	"M"	25	Not Applicable	Not Applicable
+	"2022"	"2022"	"Aug., 2022"	"2022/08"	"Not Available"	"999"	"Female"	"F"	0	Not Applicable	Not Applicable
+	"2022"	"2022"	"Aug., 2022"	"2022/08"	"Not Available"	"999"	"Male"	"M"	0	Not Applicable	Not Applicable
+	"2022"	"2022"	"Sep., 2022"	"2022/09"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	55	Not Applicable	Not Applicable
+	"2022"	"2022"	"Sep., 2022"	"2022/09"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	104	Not Applicable	Not Applicable
+	"2022"	"2022"	"Sep., 2022"	"2022/09"	"Asian"	"A"	"Female"	"F"	Suppressed	Not Applicable	Not Applicable
+	"2022"	"2022"	"Sep., 2022"	"2022/09"	"Asian"	"A"	"Male"	"M"	36	Not Applicable	Not Applicable
+	"2022"	"2022"	"Sep., 2022"	"2022/09"	"Black or African American"	"2054-5"	"Female"	"F"	101	Not Applicable	Not Applicable
+	"2022"	"2022"	"Sep., 2022"	"2022/09"	"Black or African American"	"2054-5"	"Male"	"M"	216	Not Applicable	Not Applicable
+	"2022"	"2022"	"Sep., 2022"	"2022/09"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Female"	"F"	Suppressed	Not Applicable	Not Applicable
+	"2022"	"2022"	"Sep., 2022"	"2022/09"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Male"	"M"	Suppressed	Not Applicable	Not Applicable
+	"2022"	"2022"	"Sep., 2022"	"2022/09"	"White"	"2106-3"	"Female"	"F"	903	Not Applicable	Not Applicable
+	"2022"	"2022"	"Sep., 2022"	"2022/09"	"White"	"2106-3"	"Male"	"M"	2020	Not Applicable	Not Applicable
+	"2022"	"2022"	"Sep., 2022"	"2022/09"	"More than one race"	"M"	"Female"	"F"	Suppressed	Not Applicable	Not Applicable
+	"2022"	"2022"	"Sep., 2022"	"2022/09"	"More than one race"	"M"	"Male"	"M"	16	Not Applicable	Not Applicable
+	"2022"	"2022"	"Sep., 2022"	"2022/09"	"Not Available"	"999"	"Female"	"F"	0	Not Applicable	Not Applicable
+	"2022"	"2022"	"Sep., 2022"	"2022/09"	"Not Available"	"999"	"Male"	"M"	0	Not Applicable	Not Applicable
+	"2022"	"2022"	"Oct., 2022"	"2022/10"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	51	Not Applicable	Not Applicable
+	"2022"	"2022"	"Oct., 2022"	"2022/10"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	93	Not Applicable	Not Applicable
+	"2022"	"2022"	"Oct., 2022"	"2022/10"	"Asian"	"A"	"Female"	"F"	13	Not Applicable	Not Applicable
+	"2022"	"2022"	"Oct., 2022"	"2022/10"	"Asian"	"A"	"Male"	"M"	48	Not Applicable	Not Applicable
+	"2022"	"2022"	"Oct., 2022"	"2022/10"	"Black or African American"	"2054-5"	"Female"	"F"	116	Not Applicable	Not Applicable
+	"2022"	"2022"	"Oct., 2022"	"2022/10"	"Black or African American"	"2054-5"	"Male"	"M"	231	Not Applicable	Not Applicable
+	"2022"	"2022"	"Oct., 2022"	"2022/10"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Female"	"F"	Suppressed	Not Applicable	Not Applicable
+	"2022"	"2022"	"Oct., 2022"	"2022/10"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Male"	"M"	Suppressed	Not Applicable	Not Applicable
+	"2022"	"2022"	"Oct., 2022"	"2022/10"	"White"	"2106-3"	"Female"	"F"	913	Not Applicable	Not Applicable
+	"2022"	"2022"	"Oct., 2022"	"2022/10"	"White"	"2106-3"	"Male"	"M"	2075	Not Applicable	Not Applicable
+	"2022"	"2022"	"Oct., 2022"	"2022/10"	"More than one race"	"M"	"Female"	"F"	13	Not Applicable	Not Applicable
+	"2022"	"2022"	"Oct., 2022"	"2022/10"	"More than one race"	"M"	"Male"	"M"	20	Not Applicable	Not Applicable
+	"2022"	"2022"	"Oct., 2022"	"2022/10"	"Not Available"	"999"	"Female"	"F"	0	Not Applicable	Not Applicable
+	"2022"	"2022"	"Oct., 2022"	"2022/10"	"Not Available"	"999"	"Male"	"M"	0	Not Applicable	Not Applicable
+	"2022"	"2022"	"Nov., 2022"	"2022/11"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	56	Not Applicable	Not Applicable
+	"2022"	"2022"	"Nov., 2022"	"2022/11"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	89	Not Applicable	Not Applicable
+	"2022"	"2022"	"Nov., 2022"	"2022/11"	"Asian"	"A"	"Female"	"F"	Suppressed	Not Applicable	Not Applicable
+	"2022"	"2022"	"Nov., 2022"	"2022/11"	"Asian"	"A"	"Male"	"M"	56	Not Applicable	Not Applicable
+	"2022"	"2022"	"Nov., 2022"	"2022/11"	"Black or African American"	"2054-5"	"Female"	"F"	109	Not Applicable	Not Applicable
+	"2022"	"2022"	"Nov., 2022"	"2022/11"	"Black or African American"	"2054-5"	"Male"	"M"	285	Not Applicable	Not Applicable
+	"2022"	"2022"	"Nov., 2022"	"2022/11"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Female"	"F"	Suppressed	Not Applicable	Not Applicable
+	"2022"	"2022"	"Nov., 2022"	"2022/11"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Male"	"M"	Suppressed	Not Applicable	Not Applicable
+	"2022"	"2022"	"Nov., 2022"	"2022/11"	"White"	"2106-3"	"Female"	"F"	914	Not Applicable	Not Applicable
+	"2022"	"2022"	"Nov., 2022"	"2022/11"	"White"	"2106-3"	"Male"	"M"	2090	Not Applicable	Not Applicable
+	"2022"	"2022"	"Nov., 2022"	"2022/11"	"More than one race"	"M"	"Female"	"F"	10	Not Applicable	Not Applicable
+	"2022"	"2022"	"Nov., 2022"	"2022/11"	"More than one race"	"M"	"Male"	"M"	21	Not Applicable	Not Applicable
+	"2022"	"2022"	"Nov., 2022"	"2022/11"	"Not Available"	"999"	"Female"	"F"	0	Not Applicable	Not Applicable
+	"2022"	"2022"	"Nov., 2022"	"2022/11"	"Not Available"	"999"	"Male"	"M"	0	Not Applicable	Not Applicable
+	"2022"	"2022"	"Dec., 2022"	"2022/12"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	66	Not Applicable	Not Applicable
+	"2022"	"2022"	"Dec., 2022"	"2022/12"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	109	Not Applicable	Not Applicable
+	"2022"	"2022"	"Dec., 2022"	"2022/12"	"Asian"	"A"	"Female"	"F"	18	Not Applicable	Not Applicable
+	"2022"	"2022"	"Dec., 2022"	"2022/12"	"Asian"	"A"	"Male"	"M"	48	Not Applicable	Not Applicable
+	"2022"	"2022"	"Dec., 2022"	"2022/12"	"Black or African American"	"2054-5"	"Female"	"F"	121	Not Applicable	Not Applicable
+	"2022"	"2022"	"Dec., 2022"	"2022/12"	"Black or African American"	"2054-5"	"Male"	"M"	252	Not Applicable	Not Applicable
+	"2022"	"2022"	"Dec., 2022"	"2022/12"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Female"	"F"	Suppressed	Not Applicable	Not Applicable
+	"2022"	"2022"	"Dec., 2022"	"2022/12"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Male"	"M"	Suppressed	Not Applicable	Not Applicable
+	"2022"	"2022"	"Dec., 2022"	"2022/12"	"White"	"2106-3"	"Female"	"F"	972	Not Applicable	Not Applicable
+	"2022"	"2022"	"Dec., 2022"	"2022/12"	"White"	"2106-3"	"Male"	"M"	2221	Not Applicable	Not Applicable
+	"2022"	"2022"	"Dec., 2022"	"2022/12"	"More than one race"	"M"	"Female"	"F"	12	Not Applicable	Not Applicable
+	"2022"	"2022"	"Dec., 2022"	"2022/12"	"More than one race"	"M"	"Male"	"M"	23	Not Applicable	Not Applicable
+	"2022"	"2022"	"Dec., 2022"	"2022/12"	"Not Available"	"999"	"Female"	"F"	0	Not Applicable	Not Applicable
+	"2022"	"2022"	"Dec., 2022"	"2022/12"	"Not Available"	"999"	"Male"	"M"	0	Not Applicable	Not Applicable
+	"2023"	"2023"	"Jan., 2023"	"2023/01"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	41	Not Applicable	Not Applicable
+	"2023"	"2023"	"Jan., 2023"	"2023/01"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	84	Not Applicable	Not Applicable
+	"2023"	"2023"	"Jan., 2023"	"2023/01"	"Asian"	"A"	"Female"	"F"	16	Not Applicable	Not Applicable
+	"2023"	"2023"	"Jan., 2023"	"2023/01"	"Asian"	"A"	"Male"	"M"	44	Not Applicable	Not Applicable
+	"2023"	"2023"	"Jan., 2023"	"2023/01"	"Black or African American"	"2054-5"	"Female"	"F"	103	Not Applicable	Not Applicable
+	"2023"	"2023"	"Jan., 2023"	"2023/01"	"Black or African American"	"2054-5"	"Male"	"M"	255	Not Applicable	Not Applicable
+	"2023"	"2023"	"Jan., 2023"	"2023/01"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Female"	"F"	Suppressed	Not Applicable	Not Applicable
+	"2023"	"2023"	"Jan., 2023"	"2023/01"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Male"	"M"	Suppressed	Not Applicable	Not Applicable
+	"2023"	"2023"	"Jan., 2023"	"2023/01"	"White"	"2106-3"	"Female"	"F"	942	Not Applicable	Not Applicable
+	"2023"	"2023"	"Jan., 2023"	"2023/01"	"White"	"2106-3"	"Male"	"M"	2213	Not Applicable	Not Applicable
+	"2023"	"2023"	"Jan., 2023"	"2023/01"	"More than one race"	"M"	"Female"	"F"	17	Not Applicable	Not Applicable
+	"2023"	"2023"	"Jan., 2023"	"2023/01"	"More than one race"	"M"	"Male"	"M"	24	Not Applicable	Not Applicable
+	"2023"	"2023"	"Jan., 2023"	"2023/01"	"Not Available"	"999"	"Female"	"F"	0	Not Applicable	Not Applicable
+	"2023"	"2023"	"Jan., 2023"	"2023/01"	"Not Available"	"999"	"Male"	"M"	0	Not Applicable	Not Applicable
+	"2023"	"2023"	"Feb., 2023"	"2023/02"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	46	Not Applicable	Not Applicable
+	"2023"	"2023"	"Feb., 2023"	"2023/02"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	61	Not Applicable	Not Applicable
+	"2023"	"2023"	"Feb., 2023"	"2023/02"	"Asian"	"A"	"Female"	"F"	10	Not Applicable	Not Applicable
+	"2023"	"2023"	"Feb., 2023"	"2023/02"	"Asian"	"A"	"Male"	"M"	36	Not Applicable	Not Applicable
+	"2023"	"2023"	"Feb., 2023"	"2023/02"	"Black or African American"	"2054-5"	"Female"	"F"	112	Not Applicable	Not Applicable
+	"2023"	"2023"	"Feb., 2023"	"2023/02"	"Black or African American"	"2054-5"	"Male"	"M"	208	Not Applicable	Not Applicable
+	"2023"	"2023"	"Feb., 2023"	"2023/02"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Female"	"F"	0	Not Applicable	Not Applicable
+	"2023"	"2023"	"Feb., 2023"	"2023/02"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Male"	"M"	Suppressed	Not Applicable	Not Applicable
+	"2023"	"2023"	"Feb., 2023"	"2023/02"	"White"	"2106-3"	"Female"	"F"	786	Not Applicable	Not Applicable
+	"2023"	"2023"	"Feb., 2023"	"2023/02"	"White"	"2106-3"	"Male"	"M"	1846	Not Applicable	Not Applicable
+	"2023"	"2023"	"Feb., 2023"	"2023/02"	"More than one race"	"M"	"Female"	"F"	15	Not Applicable	Not Applicable
+	"2023"	"2023"	"Feb., 2023"	"2023/02"	"More than one race"	"M"	"Male"	"M"	15	Not Applicable	Not Applicable
+	"2023"	"2023"	"Feb., 2023"	"2023/02"	"Not Available"	"999"	"Female"	"F"	0	Not Applicable	Not Applicable
+	"2023"	"2023"	"Feb., 2023"	"2023/02"	"Not Available"	"999"	"Male"	"M"	0	Not Applicable	Not Applicable
+	"2023"	"2023"	"Mar., 2023"	"2023/03"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	41	Not Applicable	Not Applicable
+	"2023"	"2023"	"Mar., 2023"	"2023/03"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	103	Not Applicable	Not Applicable
+	"2023"	"2023"	"Mar., 2023"	"2023/03"	"Asian"	"A"	"Female"	"F"	12	Not Applicable	Not Applicable
+	"2023"	"2023"	"Mar., 2023"	"2023/03"	"Asian"	"A"	"Male"	"M"	58	Not Applicable	Not Applicable
+	"2023"	"2023"	"Mar., 2023"	"2023/03"	"Black or African American"	"2054-5"	"Female"	"F"	129	Not Applicable	Not Applicable
+	"2023"	"2023"	"Mar., 2023"	"2023/03"	"Black or African American"	"2054-5"	"Male"	"M"	256	Not Applicable	Not Applicable
+	"2023"	"2023"	"Mar., 2023"	"2023/03"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Female"	"F"	Suppressed	Not Applicable	Not Applicable
+	"2023"	"2023"	"Mar., 2023"	"2023/03"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Male"	"M"	Suppressed	Not Applicable	Not Applicable
+	"2023"	"2023"	"Mar., 2023"	"2023/03"	"White"	"2106-3"	"Female"	"F"	875	Not Applicable	Not Applicable
+	"2023"	"2023"	"Mar., 2023"	"2023/03"	"White"	"2106-3"	"Male"	"M"	2004	Not Applicable	Not Applicable
+	"2023"	"2023"	"Mar., 2023"	"2023/03"	"More than one race"	"M"	"Female"	"F"	12	Not Applicable	Not Applicable
+	"2023"	"2023"	"Mar., 2023"	"2023/03"	"More than one race"	"M"	"Male"	"M"	10	Not Applicable	Not Applicable
+	"2023"	"2023"	"Mar., 2023"	"2023/03"	"Not Available"	"999"	"Female"	"F"	0	Not Applicable	Not Applicable
+	"2023"	"2023"	"Mar., 2023"	"2023/03"	"Not Available"	"999"	"Male"	"M"	0	Not Applicable	Not Applicable
+	"2023"	"2023"	"Apr., 2023"	"2023/04"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	59	Not Applicable	Not Applicable
+	"2023"	"2023"	"Apr., 2023"	"2023/04"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	91	Not Applicable	Not Applicable
+	"2023"	"2023"	"Apr., 2023"	"2023/04"	"Asian"	"A"	"Female"	"F"	Suppressed	Not Applicable	Not Applicable
+	"2023"	"2023"	"Apr., 2023"	"2023/04"	"Asian"	"A"	"Male"	"M"	40	Not Applicable	Not Applicable
+	"2023"	"2023"	"Apr., 2023"	"2023/04"	"Black or African American"	"2054-5"	"Female"	"F"	112	Not Applicable	Not Applicable
+	"2023"	"2023"	"Apr., 2023"	"2023/04"	"Black or African American"	"2054-5"	"Male"	"M"	249	Not Applicable	Not Applicable
+	"2023"	"2023"	"Apr., 2023"	"2023/04"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Female"	"F"	Suppressed	Not Applicable	Not Applicable
+	"2023"	"2023"	"Apr., 2023"	"2023/04"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Male"	"M"	Suppressed	Not Applicable	Not Applicable
+	"2023"	"2023"	"Apr., 2023"	"2023/04"	"White"	"2106-3"	"Female"	"F"	836	Not Applicable	Not Applicable
+	"2023"	"2023"	"Apr., 2023"	"2023/04"	"White"	"2106-3"	"Male"	"M"	1977	Not Applicable	Not Applicable
+	"2023"	"2023"	"Apr., 2023"	"2023/04"	"More than one race"	"M"	"Female"	"F"	10	Not Applicable	Not Applicable
+	"2023"	"2023"	"Apr., 2023"	"2023/04"	"More than one race"	"M"	"Male"	"M"	19	Not Applicable	Not Applicable
+	"2023"	"2023"	"Apr., 2023"	"2023/04"	"Not Available"	"999"	"Female"	"F"	0	Not Applicable	Not Applicable
+	"2023"	"2023"	"Apr., 2023"	"2023/04"	"Not Available"	"999"	"Male"	"M"	0	Not Applicable	Not Applicable
+	"2023"	"2023"	"May, 2023"	"2023/05"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	52	Not Applicable	Not Applicable
+	"2023"	"2023"	"May, 2023"	"2023/05"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	81	Not Applicable	Not Applicable
+	"2023"	"2023"	"May, 2023"	"2023/05"	"Asian"	"A"	"Female"	"F"	14	Not Applicable	Not Applicable
+	"2023"	"2023"	"May, 2023"	"2023/05"	"Asian"	"A"	"Male"	"M"	44	Not Applicable	Not Applicable
+	"2023"	"2023"	"May, 2023"	"2023/05"	"Black or African American"	"2054-5"	"Female"	"F"	114	Not Applicable	Not Applicable
+	"2023"	"2023"	"May, 2023"	"2023/05"	"Black or African American"	"2054-5"	"Male"	"M"	233	Not Applicable	Not Applicable
+	"2023"	"2023"	"May, 2023"	"2023/05"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Female"	"F"	0	Not Applicable	Not Applicable
+	"2023"	"2023"	"May, 2023"	"2023/05"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Male"	"M"	Suppressed	Not Applicable	Not Applicable
+	"2023"	"2023"	"May, 2023"	"2023/05"	"White"	"2106-3"	"Female"	"F"	865	Not Applicable	Not Applicable
+	"2023"	"2023"	"May, 2023"	"2023/05"	"White"	"2106-3"	"Male"	"M"	1999	Not Applicable	Not Applicable
+	"2023"	"2023"	"May, 2023"	"2023/05"	"More than one race"	"M"	"Female"	"F"	14	Not Applicable	Not Applicable
+	"2023"	"2023"	"May, 2023"	"2023/05"	"More than one race"	"M"	"Male"	"M"	23	Not Applicable	Not Applicable
+	"2023"	"2023"	"May, 2023"	"2023/05"	"Not Available"	"999"	"Female"	"F"	0	Not Applicable	Not Applicable
+	"2023"	"2023"	"May, 2023"	"2023/05"	"Not Available"	"999"	"Male"	"M"	0	Not Applicable	Not Applicable
+	"2023"	"2023"	"Jun., 2023"	"2023/06"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	55	Not Applicable	Not Applicable
+	"2023"	"2023"	"Jun., 2023"	"2023/06"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	68	Not Applicable	Not Applicable
+	"2023"	"2023"	"Jun., 2023"	"2023/06"	"Asian"	"A"	"Female"	"F"	10	Not Applicable	Not Applicable
+	"2023"	"2023"	"Jun., 2023"	"2023/06"	"Asian"	"A"	"Male"	"M"	50	Not Applicable	Not Applicable
+	"2023"	"2023"	"Jun., 2023"	"2023/06"	"Black or African American"	"2054-5"	"Female"	"F"	91	Not Applicable	Not Applicable
+	"2023"	"2023"	"Jun., 2023"	"2023/06"	"Black or African American"	"2054-5"	"Male"	"M"	219	Not Applicable	Not Applicable
+	"2023"	"2023"	"Jun., 2023"	"2023/06"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Female"	"F"	0	Not Applicable	Not Applicable
+	"2023"	"2023"	"Jun., 2023"	"2023/06"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Male"	"M"	Suppressed	Not Applicable	Not Applicable
+	"2023"	"2023"	"Jun., 2023"	"2023/06"	"White"	"2106-3"	"Female"	"F"	848	Not Applicable	Not Applicable
+	"2023"	"2023"	"Jun., 2023"	"2023/06"	"White"	"2106-3"	"Male"	"M"	1898	Not Applicable	Not Applicable
+	"2023"	"2023"	"Jun., 2023"	"2023/06"	"More than one race"	"M"	"Female"	"F"	14	Not Applicable	Not Applicable
+	"2023"	"2023"	"Jun., 2023"	"2023/06"	"More than one race"	"M"	"Male"	"M"	18	Not Applicable	Not Applicable
+	"2023"	"2023"	"Jun., 2023"	"2023/06"	"Not Available"	"999"	"Female"	"F"	0	Not Applicable	Not Applicable
+	"2023"	"2023"	"Jun., 2023"	"2023/06"	"Not Available"	"999"	"Male"	"M"	0	Not Applicable	Not Applicable
+	"2023"	"2023"	"Jul., 2023"	"2023/07"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	37	Not Applicable	Not Applicable
+	"2023"	"2023"	"Jul., 2023"	"2023/07"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	73	Not Applicable	Not Applicable
+	"2023"	"2023"	"Jul., 2023"	"2023/07"	"Asian"	"A"	"Female"	"F"	12	Not Applicable	Not Applicable
+	"2023"	"2023"	"Jul., 2023"	"2023/07"	"Asian"	"A"	"Male"	"M"	39	Not Applicable	Not Applicable
+	"2023"	"2023"	"Jul., 2023"	"2023/07"	"Black or African American"	"2054-5"	"Female"	"F"	97	Not Applicable	Not Applicable
+	"2023"	"2023"	"Jul., 2023"	"2023/07"	"Black or African American"	"2054-5"	"Male"	"M"	253	Not Applicable	Not Applicable
+	"2023"	"2023"	"Jul., 2023"	"2023/07"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Female"	"F"	0	Not Applicable	Not Applicable
+	"2023"	"2023"	"Jul., 2023"	"2023/07"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Male"	"M"	Suppressed	Not Applicable	Not Applicable
+	"2023"	"2023"	"Jul., 2023"	"2023/07"	"White"	"2106-3"	"Female"	"F"	841	Not Applicable	Not Applicable
+	"2023"	"2023"	"Jul., 2023"	"2023/07"	"White"	"2106-3"	"Male"	"M"	1931	Not Applicable	Not Applicable
+	"2023"	"2023"	"Jul., 2023"	"2023/07"	"More than one race"	"M"	"Female"	"F"	10	Not Applicable	Not Applicable
+	"2023"	"2023"	"Jul., 2023"	"2023/07"	"More than one race"	"M"	"Male"	"M"	20	Not Applicable	Not Applicable
+	"2023"	"2023"	"Jul., 2023"	"2023/07"	"Not Available"	"999"	"Female"	"F"	0	Not Applicable	Not Applicable
+	"2023"	"2023"	"Jul., 2023"	"2023/07"	"Not Available"	"999"	"Male"	"M"	0	Not Applicable	Not Applicable
+	"2023"	"2023"	"Aug., 2023"	"2023/08"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	58	Not Applicable	Not Applicable
+	"2023"	"2023"	"Aug., 2023"	"2023/08"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	77	Not Applicable	Not Applicable
+	"2023"	"2023"	"Aug., 2023"	"2023/08"	"Asian"	"A"	"Female"	"F"	13	Not Applicable	Not Applicable
+	"2023"	"2023"	"Aug., 2023"	"2023/08"	"Asian"	"A"	"Male"	"M"	44	Not Applicable	Not Applicable
+	"2023"	"2023"	"Aug., 2023"	"2023/08"	"Black or African American"	"2054-5"	"Female"	"F"	75	Not Applicable	Not Applicable
+	"2023"	"2023"	"Aug., 2023"	"2023/08"	"Black or African American"	"2054-5"	"Male"	"M"	234	Not Applicable	Not Applicable
+	"2023"	"2023"	"Aug., 2023"	"2023/08"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Female"	"F"	Suppressed	Not Applicable	Not Applicable
+	"2023"	"2023"	"Aug., 2023"	"2023/08"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Male"	"M"	Suppressed	Not Applicable	Not Applicable
+	"2023"	"2023"	"Aug., 2023"	"2023/08"	"White"	"2106-3"	"Female"	"F"	849	Not Applicable	Not Applicable
+	"2023"	"2023"	"Aug., 2023"	"2023/08"	"White"	"2106-3"	"Male"	"M"	1929	Not Applicable	Not Applicable
+	"2023"	"2023"	"Aug., 2023"	"2023/08"	"More than one race"	"M"	"Female"	"F"	12	Not Applicable	Not Applicable
+	"2023"	"2023"	"Aug., 2023"	"2023/08"	"More than one race"	"M"	"Male"	"M"	18	Not Applicable	Not Applicable
+	"2023"	"2023"	"Aug., 2023"	"2023/08"	"Not Available"	"999"	"Female"	"F"	0	Not Applicable	Not Applicable
+	"2023"	"2023"	"Aug., 2023"	"2023/08"	"Not Available"	"999"	"Male"	"M"	0	Not Applicable	Not Applicable
+	"2023"	"2023"	"Sep., 2023"	"2023/09"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	51	Not Applicable	Not Applicable
+	"2023"	"2023"	"Sep., 2023"	"2023/09"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	56	Not Applicable	Not Applicable
+	"2023"	"2023"	"Sep., 2023"	"2023/09"	"Asian"	"A"	"Female"	"F"	12	Not Applicable	Not Applicable
+	"2023"	"2023"	"Sep., 2023"	"2023/09"	"Asian"	"A"	"Male"	"M"	49	Not Applicable	Not Applicable
+	"2023"	"2023"	"Sep., 2023"	"2023/09"	"Black or African American"	"2054-5"	"Female"	"F"	107	Not Applicable	Not Applicable
+	"2023"	"2023"	"Sep., 2023"	"2023/09"	"Black or African American"	"2054-5"	"Male"	"M"	233	Not Applicable	Not Applicable
+	"2023"	"2023"	"Sep., 2023"	"2023/09"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Female"	"F"	0	Not Applicable	Not Applicable
+	"2023"	"2023"	"Sep., 2023"	"2023/09"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Male"	"M"	Suppressed	Not Applicable	Not Applicable
+	"2023"	"2023"	"Sep., 2023"	"2023/09"	"White"	"2106-3"	"Female"	"F"	841	Not Applicable	Not Applicable
+	"2023"	"2023"	"Sep., 2023"	"2023/09"	"White"	"2106-3"	"Male"	"M"	1783	Not Applicable	Not Applicable
+	"2023"	"2023"	"Sep., 2023"	"2023/09"	"More than one race"	"M"	"Female"	"F"	20	Not Applicable	Not Applicable
+	"2023"	"2023"	"Sep., 2023"	"2023/09"	"More than one race"	"M"	"Male"	"M"	20	Not Applicable	Not Applicable
+	"2023"	"2023"	"Sep., 2023"	"2023/09"	"Not Available"	"999"	"Female"	"F"	0	Not Applicable	Not Applicable
+	"2023"	"2023"	"Sep., 2023"	"2023/09"	"Not Available"	"999"	"Male"	"M"	0	Not Applicable	Not Applicable
+	"2023"	"2023"	"Oct., 2023"	"2023/10"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	48	Not Applicable	Not Applicable
+	"2023"	"2023"	"Oct., 2023"	"2023/10"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	67	Not Applicable	Not Applicable
+	"2023"	"2023"	"Oct., 2023"	"2023/10"	"Asian"	"A"	"Female"	"F"	Suppressed	Not Applicable	Not Applicable
+	"2023"	"2023"	"Oct., 2023"	"2023/10"	"Asian"	"A"	"Male"	"M"	44	Not Applicable	Not Applicable
+	"2023"	"2023"	"Oct., 2023"	"2023/10"	"Black or African American"	"2054-5"	"Female"	"F"	107	Not Applicable	Not Applicable
+	"2023"	"2023"	"Oct., 2023"	"2023/10"	"Black or African American"	"2054-5"	"Male"	"M"	256	Not Applicable	Not Applicable
+	"2023"	"2023"	"Oct., 2023"	"2023/10"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Female"	"F"	Suppressed	Not Applicable	Not Applicable
+	"2023"	"2023"	"Oct., 2023"	"2023/10"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Male"	"M"	Suppressed	Not Applicable	Not Applicable
+	"2023"	"2023"	"Oct., 2023"	"2023/10"	"White"	"2106-3"	"Female"	"F"	865	Not Applicable	Not Applicable
+	"2023"	"2023"	"Oct., 2023"	"2023/10"	"White"	"2106-3"	"Male"	"M"	2011	Not Applicable	Not Applicable
+	"2023"	"2023"	"Oct., 2023"	"2023/10"	"More than one race"	"M"	"Female"	"F"	21	Not Applicable	Not Applicable
+	"2023"	"2023"	"Oct., 2023"	"2023/10"	"More than one race"	"M"	"Male"	"M"	19	Not Applicable	Not Applicable
+	"2023"	"2023"	"Oct., 2023"	"2023/10"	"Not Available"	"999"	"Female"	"F"	0	Not Applicable	Not Applicable
+	"2023"	"2023"	"Oct., 2023"	"2023/10"	"Not Available"	"999"	"Male"	"M"	0	Not Applicable	Not Applicable
+	"2023"	"2023"	"Nov., 2023"	"2023/11"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	41	Not Applicable	Not Applicable
+	"2023"	"2023"	"Nov., 2023"	"2023/11"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	68	Not Applicable	Not Applicable
+	"2023"	"2023"	"Nov., 2023"	"2023/11"	"Asian"	"A"	"Female"	"F"	Suppressed	Not Applicable	Not Applicable
+	"2023"	"2023"	"Nov., 2023"	"2023/11"	"Asian"	"A"	"Male"	"M"	50	Not Applicable	Not Applicable
+	"2023"	"2023"	"Nov., 2023"	"2023/11"	"Black or African American"	"2054-5"	"Female"	"F"	83	Not Applicable	Not Applicable
+	"2023"	"2023"	"Nov., 2023"	"2023/11"	"Black or African American"	"2054-5"	"Male"	"M"	238	Not Applicable	Not Applicable
+	"2023"	"2023"	"Nov., 2023"	"2023/11"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Female"	"F"	Suppressed	Not Applicable	Not Applicable
+	"2023"	"2023"	"Nov., 2023"	"2023/11"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Male"	"M"	Suppressed	Not Applicable	Not Applicable
+	"2023"	"2023"	"Nov., 2023"	"2023/11"	"White"	"2106-3"	"Female"	"F"	857	Not Applicable	Not Applicable
+	"2023"	"2023"	"Nov., 2023"	"2023/11"	"White"	"2106-3"	"Male"	"M"	1930	Not Applicable	Not Applicable
+	"2023"	"2023"	"Nov., 2023"	"2023/11"	"More than one race"	"M"	"Female"	"F"	13	Not Applicable	Not Applicable
+	"2023"	"2023"	"Nov., 2023"	"2023/11"	"More than one race"	"M"	"Male"	"M"	19	Not Applicable	Not Applicable
+	"2023"	"2023"	"Nov., 2023"	"2023/11"	"Not Available"	"999"	"Female"	"F"	0	Not Applicable	Not Applicable
+	"2023"	"2023"	"Nov., 2023"	"2023/11"	"Not Available"	"999"	"Male"	"M"	0	Not Applicable	Not Applicable
+	"2023"	"2023"	"Dec., 2023"	"2023/12"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	59	Not Applicable	Not Applicable
+	"2023"	"2023"	"Dec., 2023"	"2023/12"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	95	Not Applicable	Not Applicable
+	"2023"	"2023"	"Dec., 2023"	"2023/12"	"Asian"	"A"	"Female"	"F"	12	Not Applicable	Not Applicable
+	"2023"	"2023"	"Dec., 2023"	"2023/12"	"Asian"	"A"	"Male"	"M"	52	Not Applicable	Not Applicable
+	"2023"	"2023"	"Dec., 2023"	"2023/12"	"Black or African American"	"2054-5"	"Female"	"F"	105	Not Applicable	Not Applicable
+	"2023"	"2023"	"Dec., 2023"	"2023/12"	"Black or African American"	"2054-5"	"Male"	"M"	232	Not Applicable	Not Applicable
+	"2023"	"2023"	"Dec., 2023"	"2023/12"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Female"	"F"	Suppressed	Not Applicable	Not Applicable
+	"2023"	"2023"	"Dec., 2023"	"2023/12"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Male"	"M"	Suppressed	Not Applicable	Not Applicable
+	"2023"	"2023"	"Dec., 2023"	"2023/12"	"White"	"2106-3"	"Female"	"F"	897	Not Applicable	Not Applicable
+	"2023"	"2023"	"Dec., 2023"	"2023/12"	"White"	"2106-3"	"Male"	"M"	2032	Not Applicable	Not Applicable
+	"2023"	"2023"	"Dec., 2023"	"2023/12"	"More than one race"	"M"	"Female"	"F"	Suppressed	Not Applicable	Not Applicable
+	"2023"	"2023"	"Dec., 2023"	"2023/12"	"More than one race"	"M"	"Male"	"M"	14	Not Applicable	Not Applicable
+	"2023"	"2023"	"Dec., 2023"	"2023/12"	"Not Available"	"999"	"Female"	"F"	0	Not Applicable	Not Applicable
+	"2023"	"2023"	"Dec., 2023"	"2023/12"	"Not Available"	"999"	"Male"	"M"	0	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"Jan., 2024 (provisional)"	"2024/01"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	51	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"Jan., 2024 (provisional)"	"2024/01"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	86	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"Jan., 2024 (provisional)"	"2024/01"	"Asian"	"A"	"Female"	"F"	11	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"Jan., 2024 (provisional)"	"2024/01"	"Asian"	"A"	"Male"	"M"	46	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"Jan., 2024 (provisional)"	"2024/01"	"Black or African American"	"2054-5"	"Female"	"F"	113	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"Jan., 2024 (provisional)"	"2024/01"	"Black or African American"	"2054-5"	"Male"	"M"	256	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"Jan., 2024 (provisional)"	"2024/01"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Female"	"F"	0	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"Jan., 2024 (provisional)"	"2024/01"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Male"	"M"	Suppressed	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"Jan., 2024 (provisional)"	"2024/01"	"White"	"2106-3"	"Female"	"F"	922	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"Jan., 2024 (provisional)"	"2024/01"	"White"	"2106-3"	"Male"	"M"	2120	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"Jan., 2024 (provisional)"	"2024/01"	"More than one race"	"M"	"Female"	"F"	Suppressed	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"Jan., 2024 (provisional)"	"2024/01"	"More than one race"	"M"	"Male"	"M"	21	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"Jan., 2024 (provisional)"	"2024/01"	"Not Available"	"999"	"Female"	"F"	0	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"Jan., 2024 (provisional)"	"2024/01"	"Not Available"	"999"	"Male"	"M"	0	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"Feb., 2024 (provisional)"	"2024/02"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	41	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"Feb., 2024 (provisional)"	"2024/02"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	70	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"Feb., 2024 (provisional)"	"2024/02"	"Asian"	"A"	"Female"	"F"	Suppressed	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"Feb., 2024 (provisional)"	"2024/02"	"Asian"	"A"	"Male"	"M"	43	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"Feb., 2024 (provisional)"	"2024/02"	"Black or African American"	"2054-5"	"Female"	"F"	98	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"Feb., 2024 (provisional)"	"2024/02"	"Black or African American"	"2054-5"	"Male"	"M"	205	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"Feb., 2024 (provisional)"	"2024/02"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Female"	"F"	Suppressed	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"Feb., 2024 (provisional)"	"2024/02"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Male"	"M"	Suppressed	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"Feb., 2024 (provisional)"	"2024/02"	"White"	"2106-3"	"Female"	"F"	876	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"Feb., 2024 (provisional)"	"2024/02"	"White"	"2106-3"	"Male"	"M"	1799	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"Feb., 2024 (provisional)"	"2024/02"	"More than one race"	"M"	"Female"	"F"	13	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"Feb., 2024 (provisional)"	"2024/02"	"More than one race"	"M"	"Male"	"M"	22	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"Feb., 2024 (provisional)"	"2024/02"	"Not Available"	"999"	"Female"	"F"	0	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"Feb., 2024 (provisional)"	"2024/02"	"Not Available"	"999"	"Male"	"M"	0	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"Mar., 2024 (provisional)"	"2024/03"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	56	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"Mar., 2024 (provisional)"	"2024/03"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	78	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"Mar., 2024 (provisional)"	"2024/03"	"Asian"	"A"	"Female"	"F"	11	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"Mar., 2024 (provisional)"	"2024/03"	"Asian"	"A"	"Male"	"M"	43	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"Mar., 2024 (provisional)"	"2024/03"	"Black or African American"	"2054-5"	"Female"	"F"	92	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"Mar., 2024 (provisional)"	"2024/03"	"Black or African American"	"2054-5"	"Male"	"M"	234	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"Mar., 2024 (provisional)"	"2024/03"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Female"	"F"	0	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"Mar., 2024 (provisional)"	"2024/03"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Male"	"M"	Suppressed	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"Mar., 2024 (provisional)"	"2024/03"	"White"	"2106-3"	"Female"	"F"	867	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"Mar., 2024 (provisional)"	"2024/03"	"White"	"2106-3"	"Male"	"M"	1949	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"Mar., 2024 (provisional)"	"2024/03"	"More than one race"	"M"	"Female"	"F"	12	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"Mar., 2024 (provisional)"	"2024/03"	"More than one race"	"M"	"Male"	"M"	19	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"Mar., 2024 (provisional)"	"2024/03"	"Not Available"	"999"	"Female"	"F"	0	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"Mar., 2024 (provisional)"	"2024/03"	"Not Available"	"999"	"Male"	"M"	0	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"Apr., 2024 (provisional)"	"2024/04"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	43	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"Apr., 2024 (provisional)"	"2024/04"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	65	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"Apr., 2024 (provisional)"	"2024/04"	"Asian"	"A"	"Female"	"F"	Suppressed	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"Apr., 2024 (provisional)"	"2024/04"	"Asian"	"A"	"Male"	"M"	49	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"Apr., 2024 (provisional)"	"2024/04"	"Black or African American"	"2054-5"	"Female"	"F"	96	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"Apr., 2024 (provisional)"	"2024/04"	"Black or African American"	"2054-5"	"Male"	"M"	228	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"Apr., 2024 (provisional)"	"2024/04"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Female"	"F"	Suppressed	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"Apr., 2024 (provisional)"	"2024/04"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Male"	"M"	Suppressed	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"Apr., 2024 (provisional)"	"2024/04"	"White"	"2106-3"	"Female"	"F"	859	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"Apr., 2024 (provisional)"	"2024/04"	"White"	"2106-3"	"Male"	"M"	1821	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"Apr., 2024 (provisional)"	"2024/04"	"More than one race"	"M"	"Female"	"F"	12	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"Apr., 2024 (provisional)"	"2024/04"	"More than one race"	"M"	"Male"	"M"	15	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"Apr., 2024 (provisional)"	"2024/04"	"Not Available"	"999"	"Female"	"F"	0	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"Apr., 2024 (provisional)"	"2024/04"	"Not Available"	"999"	"Male"	"M"	0	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"May, 2024 (provisional)"	"2024/05"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	38	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"May, 2024 (provisional)"	"2024/05"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	71	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"May, 2024 (provisional)"	"2024/05"	"Asian"	"A"	"Female"	"F"	Suppressed	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"May, 2024 (provisional)"	"2024/05"	"Asian"	"A"	"Male"	"M"	38	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"May, 2024 (provisional)"	"2024/05"	"Black or African American"	"2054-5"	"Female"	"F"	100	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"May, 2024 (provisional)"	"2024/05"	"Black or African American"	"2054-5"	"Male"	"M"	231	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"May, 2024 (provisional)"	"2024/05"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Female"	"F"	Suppressed	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"May, 2024 (provisional)"	"2024/05"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Male"	"M"	Suppressed	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"May, 2024 (provisional)"	"2024/05"	"White"	"2106-3"	"Female"	"F"	831	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"May, 2024 (provisional)"	"2024/05"	"White"	"2106-3"	"Male"	"M"	1801	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"May, 2024 (provisional)"	"2024/05"	"More than one race"	"M"	"Female"	"F"	13	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"May, 2024 (provisional)"	"2024/05"	"More than one race"	"M"	"Male"	"M"	21	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"May, 2024 (provisional)"	"2024/05"	"Not Available"	"999"	"Female"	"F"	0	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"May, 2024 (provisional)"	"2024/05"	"Not Available"	"999"	"Male"	"M"	0	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"Jun., 2024 (provisional)"	"2024/06"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	51	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"Jun., 2024 (provisional)"	"2024/06"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	66	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"Jun., 2024 (provisional)"	"2024/06"	"Asian"	"A"	"Female"	"F"	17	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"Jun., 2024 (provisional)"	"2024/06"	"Asian"	"A"	"Male"	"M"	51	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"Jun., 2024 (provisional)"	"2024/06"	"Black or African American"	"2054-5"	"Female"	"F"	101	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"Jun., 2024 (provisional)"	"2024/06"	"Black or African American"	"2054-5"	"Male"	"M"	208	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"Jun., 2024 (provisional)"	"2024/06"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Female"	"F"	0	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"Jun., 2024 (provisional)"	"2024/06"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Male"	"M"	Suppressed	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"Jun., 2024 (provisional)"	"2024/06"	"White"	"2106-3"	"Female"	"F"	791	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"Jun., 2024 (provisional)"	"2024/06"	"White"	"2106-3"	"Male"	"M"	1842	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"Jun., 2024 (provisional)"	"2024/06"	"More than one race"	"M"	"Female"	"F"	12	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"Jun., 2024 (provisional)"	"2024/06"	"More than one race"	"M"	"Male"	"M"	16	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"Jun., 2024 (provisional)"	"2024/06"	"Not Available"	"999"	"Female"	"F"	0	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"Jun., 2024 (provisional)"	"2024/06"	"Not Available"	"999"	"Male"	"M"	0	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"Jul., 2024 (provisional)"	"2024/07"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	45	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"Jul., 2024 (provisional)"	"2024/07"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	63	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"Jul., 2024 (provisional)"	"2024/07"	"Asian"	"A"	"Female"	"F"	Suppressed	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"Jul., 2024 (provisional)"	"2024/07"	"Asian"	"A"	"Male"	"M"	52	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"Jul., 2024 (provisional)"	"2024/07"	"Black or African American"	"2054-5"	"Female"	"F"	92	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"Jul., 2024 (provisional)"	"2024/07"	"Black or African American"	"2054-5"	"Male"	"M"	209	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"Jul., 2024 (provisional)"	"2024/07"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Female"	"F"	0	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"Jul., 2024 (provisional)"	"2024/07"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Male"	"M"	Suppressed	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"Jul., 2024 (provisional)"	"2024/07"	"White"	"2106-3"	"Female"	"F"	822	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"Jul., 2024 (provisional)"	"2024/07"	"White"	"2106-3"	"Male"	"M"	1792	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"Jul., 2024 (provisional)"	"2024/07"	"More than one race"	"M"	"Female"	"F"	11	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"Jul., 2024 (provisional)"	"2024/07"	"More than one race"	"M"	"Male"	"M"	19	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"Jul., 2024 (provisional)"	"2024/07"	"Not Available"	"999"	"Female"	"F"	0	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"Jul., 2024 (provisional)"	"2024/07"	"Not Available"	"999"	"Male"	"M"	0	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"Aug., 2024 (provisional)"	"2024/08"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	51	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"Aug., 2024 (provisional)"	"2024/08"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	51	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"Aug., 2024 (provisional)"	"2024/08"	"Asian"	"A"	"Female"	"F"	Suppressed	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"Aug., 2024 (provisional)"	"2024/08"	"Asian"	"A"	"Male"	"M"	41	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"Aug., 2024 (provisional)"	"2024/08"	"Black or African American"	"2054-5"	"Female"	"F"	88	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"Aug., 2024 (provisional)"	"2024/08"	"Black or African American"	"2054-5"	"Male"	"M"	198	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"Aug., 2024 (provisional)"	"2024/08"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Female"	"F"	Suppressed	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"Aug., 2024 (provisional)"	"2024/08"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Male"	"M"	Suppressed	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"Aug., 2024 (provisional)"	"2024/08"	"White"	"2106-3"	"Female"	"F"	800	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"Aug., 2024 (provisional)"	"2024/08"	"White"	"2106-3"	"Male"	"M"	1790	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"Aug., 2024 (provisional)"	"2024/08"	"More than one race"	"M"	"Female"	"F"	11	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"Aug., 2024 (provisional)"	"2024/08"	"More than one race"	"M"	"Male"	"M"	20	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"Aug., 2024 (provisional)"	"2024/08"	"Not Available"	"999"	"Female"	"F"	0	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"Aug., 2024 (provisional)"	"2024/08"	"Not Available"	"999"	"Male"	"M"	0	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"Sep., 2024 (provisional)"	"2024/09"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	43	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"Sep., 2024 (provisional)"	"2024/09"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	53	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"Sep., 2024 (provisional)"	"2024/09"	"Asian"	"A"	"Female"	"F"	12	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"Sep., 2024 (provisional)"	"2024/09"	"Asian"	"A"	"Male"	"M"	36	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"Sep., 2024 (provisional)"	"2024/09"	"Black or African American"	"2054-5"	"Female"	"F"	113	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"Sep., 2024 (provisional)"	"2024/09"	"Black or African American"	"2054-5"	"Male"	"M"	186	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"Sep., 2024 (provisional)"	"2024/09"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Female"	"F"	Suppressed	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"Sep., 2024 (provisional)"	"2024/09"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Male"	"M"	Suppressed	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"Sep., 2024 (provisional)"	"2024/09"	"White"	"2106-3"	"Female"	"F"	792	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"Sep., 2024 (provisional)"	"2024/09"	"White"	"2106-3"	"Male"	"M"	1645	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"Sep., 2024 (provisional)"	"2024/09"	"More than one race"	"M"	"Female"	"F"	11	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"Sep., 2024 (provisional)"	"2024/09"	"More than one race"	"M"	"Male"	"M"	17	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"Sep., 2024 (provisional)"	"2024/09"	"Not Available"	"999"	"Female"	"F"	0	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"Sep., 2024 (provisional)"	"2024/09"	"Not Available"	"999"	"Male"	"M"	0	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"Oct., 2024 (provisional)"	"2024/10"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	42	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"Oct., 2024 (provisional)"	"2024/10"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	44	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"Oct., 2024 (provisional)"	"2024/10"	"Asian"	"A"	"Female"	"F"	10	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"Oct., 2024 (provisional)"	"2024/10"	"Asian"	"A"	"Male"	"M"	33	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"Oct., 2024 (provisional)"	"2024/10"	"Black or African American"	"2054-5"	"Female"	"F"	89	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"Oct., 2024 (provisional)"	"2024/10"	"Black or African American"	"2054-5"	"Male"	"M"	196	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"Oct., 2024 (provisional)"	"2024/10"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Female"	"F"	Suppressed	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"Oct., 2024 (provisional)"	"2024/10"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Male"	"M"	Suppressed	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"Oct., 2024 (provisional)"	"2024/10"	"White"	"2106-3"	"Female"	"F"	823	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"Oct., 2024 (provisional)"	"2024/10"	"White"	"2106-3"	"Male"	"M"	1731	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"Oct., 2024 (provisional)"	"2024/10"	"More than one race"	"M"	"Female"	"F"	11	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"Oct., 2024 (provisional)"	"2024/10"	"More than one race"	"M"	"Male"	"M"	23	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"Oct., 2024 (provisional)"	"2024/10"	"Not Available"	"999"	"Female"	"F"	0	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"Oct., 2024 (provisional)"	"2024/10"	"Not Available"	"999"	"Male"	"M"	0	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"Nov., 2024 (provisional)"	"2024/11"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	30	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"Nov., 2024 (provisional)"	"2024/11"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	58	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"Nov., 2024 (provisional)"	"2024/11"	"Asian"	"A"	"Female"	"F"	Suppressed	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"Nov., 2024 (provisional)"	"2024/11"	"Asian"	"A"	"Male"	"M"	35	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"Nov., 2024 (provisional)"	"2024/11"	"Black or African American"	"2054-5"	"Female"	"F"	75	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"Nov., 2024 (provisional)"	"2024/11"	"Black or African American"	"2054-5"	"Male"	"M"	167	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"Nov., 2024 (provisional)"	"2024/11"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Female"	"F"	0	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"Nov., 2024 (provisional)"	"2024/11"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Male"	"M"	Suppressed	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"Nov., 2024 (provisional)"	"2024/11"	"White"	"2106-3"	"Female"	"F"	743	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"Nov., 2024 (provisional)"	"2024/11"	"White"	"2106-3"	"Male"	"M"	1672	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"Nov., 2024 (provisional)"	"2024/11"	"More than one race"	"M"	"Female"	"F"	14	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"Nov., 2024 (provisional)"	"2024/11"	"More than one race"	"M"	"Male"	"M"	14	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"Nov., 2024 (provisional)"	"2024/11"	"Not Available"	"999"	"Female"	"F"	0	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"Nov., 2024 (provisional)"	"2024/11"	"Not Available"	"999"	"Male"	"M"	0	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"Dec., 2024 (provisional)"	"2024/12"	"American Indian or Alaska Native"	"1002-5"	"Female"	"F"	33	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"Dec., 2024 (provisional)"	"2024/12"	"American Indian or Alaska Native"	"1002-5"	"Male"	"M"	67	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"Dec., 2024 (provisional)"	"2024/12"	"Asian"	"A"	"Female"	"F"	Suppressed	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"Dec., 2024 (provisional)"	"2024/12"	"Asian"	"A"	"Male"	"M"	39	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"Dec., 2024 (provisional)"	"2024/12"	"Black or African American"	"2054-5"	"Female"	"F"	55	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"Dec., 2024 (provisional)"	"2024/12"	"Black or African American"	"2054-5"	"Male"	"M"	135	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"Dec., 2024 (provisional)"	"2024/12"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Female"	"F"	0	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"Dec., 2024 (provisional)"	"2024/12"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Male"	"M"	Suppressed	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"Dec., 2024 (provisional)"	"2024/12"	"White"	"2106-3"	"Female"	"F"	630	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"Dec., 2024 (provisional)"	"2024/12"	"White"	"2106-3"	"Male"	"M"	1589	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"Dec., 2024 (provisional)"	"2024/12"	"More than one race"	"M"	"Female"	"F"	15	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"Dec., 2024 (provisional)"	"2024/12"	"More than one race"	"M"	"Male"	"M"	14	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"Dec., 2024 (provisional)"	"2024/12"	"Not Available"	"999"	"Female"	"F"	0	Not Applicable	Not Applicable
+	"2024 (provisional)"	"2024"	"Dec., 2024 (provisional)"	"2024/12"	"Not Available"	"999"	"Male"	"M"	0	Not Applicable	Not Applicable
